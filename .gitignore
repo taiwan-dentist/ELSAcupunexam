@@ -1,0 +1,35 @@
+# GitHub Pages 部署用白名單；本資料夾應作為 Git 倉庫根目錄。
+# 其餘檔案預設排除，包括 tools、tests、docs、checkpoints、README 與 package.json。
+# 忽略規則不會刪除任何本機檔案。
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/css/
+!/js/
+!/data/
+!/model/
+!/icons/
+!/vendor/
+
+# 即使出現在允許的資產目錄內，也排除本機依賴、快取與暫存檔。
+node_modules/
+.npm-cache/
+.taste-skill/
+__pycache__/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.env
+.env.*
+*.7z
+*.zip
+*.rar
+*.blend
+*.blend[0-9]*

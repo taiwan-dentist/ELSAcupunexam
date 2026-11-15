@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+ <meta name="theme-color" content="#f7f1ec">
+ <meta name="description" content="以 3D 人體練習穴位名稱與位置，自選範圍，每題三次機會。">
+ <meta name="color-scheme" content="light dark">
+ <title>穴位自測</title>
+ <link rel="icon" type="image/svg+xml" href="./icons/favicon.svg">
+ <link rel="alternate icon" type="image/x-icon" href="./icons/favicon.ico">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400..700&amp;display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+ <link rel="stylesheet" href="./css/app.css">
+ <script type="importmap">{"imports":{"three":"./vendor/three/build/three.webgpu.js","three/webgpu":"./vendor/three/build/three.webgpu.js","three/addons/":"./vendor/three/examples/jsm/"}}</script>
+ <script type="module" src="./js/app.js"></script>
+</head>
+<body>
+ <!-- Product app: the reviewed brief calls for the actual 3D model and a quiet quiz UI. The user's visual revision explicitly selects Google Fonts Noto Sans TC Embed. -->
+ <a class="skip-link" href="#content">跳至操作區</a>
+ <header class="app-header">
+  <a class="brand" href="./" aria-label="穴位自測首頁"><span class="brand-mark" aria-hidden="true"></span><span>穴位自測<small>許芳綺、黃柏誠醫師 版權所有</small></span></a>
+  <div class="header-actions"><button id="theme-button" class="icon-button" type="button" aria-label="切換深色模式" title="切換深色模式"><span aria-hidden="true">◐</span></button></div>
+ </header>
+ <div id="notice" class="notice" role="status" hidden></div>
+ <main id="main" class="app-main wrap split" tabindex="-1">
+  <div id="scene-region" class="scene-region" role="region" aria-label="3D 人體操作區">
+   <div id="canvas-host" class="canvas-host"></div>
+   <div id="model-status" class="model-status" role="status"><span class="loading-line"></span><span id="model-status-text">正在載入人體模型…</span><button id="model-retry" class="quiet-button" type="button" hidden>重新載入</button></div>
+   <div id="selection-ring" class="selection-ring" aria-hidden="true" hidden></div>
+   <div class="scene-toolbar" role="group" aria-label="模型視角"><button type="button" data-view="front" aria-label="正面視角">正面</button><button type="button" data-view="back" aria-label="背面視角">背面</button><button type="button" data-view="reset" aria-label="重設完整視角">全身</button><button type="button" data-view="zoom" aria-label="拉近目前視角">拉近 ＋</button><button type="button" data-view="out" aria-label="拉遠目前視角">拉遠 −</button></div>
+  </div>
+  <section id="content" class="content-panel" aria-live="off" tabindex="-1"><h1>正在載入題庫…</h1></section>
+ </main>
+ <footer class="app-footer"><button id="diagnostics-button" class="footer-info" type="button">顯示資訊</button></footer>
+ <div id="announcer" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+ <dialog id="confirm-dialog" aria-labelledby="confirm-title"><form method="dialog"><h2 id="confirm-title">離開這次測驗？</h2><p id="confirm-description">目前進度將清除。</p><div class="button-row"><button value="cancel" autofocus>繼續作答</button><button value="confirm" class="primary">離開測驗</button></div></form></dialog>
+ <dialog id="diagnostics-dialog" aria-labelledby="diagnostics-title"><h2 id="diagnostics-title">顯示資訊</h2><dl id="diagnostics-list"></dl><p class="muted">高效能是瀏覽器偏好設定，不能保證使用獨立顯示卡。</p><div class="button-row"><button id="renderer-rebuild" type="button">重建 3D 顯示</button><button id="diagnostics-close" type="button" class="primary">關閉</button></div></dialog>
+ <noscript><p class="no-script">穴位自測需要 JavaScript 才能載入 3D 模型與題目，請先在瀏覽器啟用。</p></noscript>
+</body>
+</html>

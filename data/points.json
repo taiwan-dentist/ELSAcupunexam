@@ -1,0 +1,5376 @@
+{
+  "dataVersion": "points-2026.1",
+  "source": "model9.glb 上的穴位點位（使用者指定為準；從已驗收的清理副本萃取）",
+  "sourceModelSha256": "2f726c5165783ae5d14e5de100be95e23d0a74e843ce651fdba4665d52fd34b6",
+  "reviewStatus": "approved",
+  "points": [
+    {
+      "id": "LU1",
+      "name": "中府",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU2",
+      "name": "雲門",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU3",
+      "name": "天府",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU4",
+      "name": "俠白",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU5",
+      "name": "尺澤",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU6",
+      "name": "孔最",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU7",
+      "name": "列缺",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU8",
+      "name": "經渠",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU9",
+      "name": "太淵",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU10",
+      "name": "魚際",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LU11",
+      "name": "少商",
+      "variants": [],
+      "meridian": "手太陰肺經",
+      "meridianCode": "LU",
+      "bilateral": false,
+      "nodes": [
+        "pt_LU11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI1",
+      "name": "商陽",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI2",
+      "name": "二間",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI3",
+      "name": "三間",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI4",
+      "name": "合谷",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI5",
+      "name": "陽溪",
+      "variants": [
+        "陽谿"
+      ],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI6",
+      "name": "偏歷",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI7",
+      "name": "溫溜",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI8",
+      "name": "下廉",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI9",
+      "name": "上廉",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI10",
+      "name": "手三里",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI11",
+      "name": "曲池",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI12",
+      "name": "肘髎",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI13",
+      "name": "手五里",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI14",
+      "name": "臂臑",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI15",
+      "name": "肩髃",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI16",
+      "name": "巨骨",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI17",
+      "name": "天鼎",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI18",
+      "name": "扶突",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI19",
+      "name": "口禾髎",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LI20",
+      "name": "迎香",
+      "variants": [],
+      "meridian": "手陽明大腸經",
+      "meridianCode": "LI",
+      "bilateral": false,
+      "nodes": [
+        "pt_LI20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST1",
+      "name": "承泣",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST2",
+      "name": "四白",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST3",
+      "name": "巨髎",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST4",
+      "name": "地倉",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST5",
+      "name": "大迎",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST6",
+      "name": "頰車",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST7",
+      "name": "下關",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST8",
+      "name": "頭維",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST9",
+      "name": "人迎",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST10",
+      "name": "水突",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST11",
+      "name": "氣舍",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST12",
+      "name": "缺盆",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST13",
+      "name": "氣戶",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST14",
+      "name": "庫房",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST15",
+      "name": "屋翳",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST16",
+      "name": "膺窗",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST17",
+      "name": "乳中",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST18",
+      "name": "乳根",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST19",
+      "name": "不容",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST20",
+      "name": "承滿",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST21",
+      "name": "梁門",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST21"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST22",
+      "name": "關門",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST22"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST23",
+      "name": "太乙",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST23"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST24",
+      "name": "滑肉門",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST24"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST25",
+      "name": "天樞",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST25"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST26",
+      "name": "外陵",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST26"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST27",
+      "name": "大巨",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST27"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST28",
+      "name": "水道",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST28"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST29",
+      "name": "歸來",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST29"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST30",
+      "name": "氣衝",
+      "variants": [
+        "氣沖"
+      ],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST30"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST31",
+      "name": "髀關",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST31"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST32",
+      "name": "伏兔",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST32"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST33",
+      "name": "陰市",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST33"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST34",
+      "name": "梁丘",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST34"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST35",
+      "name": "犢鼻",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST35"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST36",
+      "name": "足三里",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST36"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST37",
+      "name": "上巨虛",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST37"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST38",
+      "name": "條口",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST38"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST39",
+      "name": "下巨虛",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST39"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST40",
+      "name": "豐隆",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST40"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST41",
+      "name": "解溪",
+      "variants": [
+        "解谿"
+      ],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST41"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST42",
+      "name": "衝陽",
+      "variants": [
+        "沖陽"
+      ],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST42"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST43",
+      "name": "陷谷",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST43"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST44",
+      "name": "內庭",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST44"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "ST45",
+      "name": "厲兌",
+      "variants": [],
+      "meridian": "足陽明胃經",
+      "meridianCode": "ST",
+      "bilateral": false,
+      "nodes": [
+        "pt_ST45"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP1",
+      "name": "隱白",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP2",
+      "name": "大都",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP3",
+      "name": "太白",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP4",
+      "name": "公孫",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP5",
+      "name": "商丘",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP6",
+      "name": "三陰交",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP7",
+      "name": "漏谷",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP8",
+      "name": "地機",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP9",
+      "name": "陰陵泉",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP10",
+      "name": "血海",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP11",
+      "name": "箕門",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP12",
+      "name": "衝門",
+      "variants": [
+        "沖門"
+      ],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP13",
+      "name": "府舍",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP14",
+      "name": "腹結",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP15",
+      "name": "大橫",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP16",
+      "name": "腹哀",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP17",
+      "name": "食竇",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP18",
+      "name": "天溪",
+      "variants": [
+        "天谿"
+      ],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP19",
+      "name": "胸鄉",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP20",
+      "name": "周榮",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SP21",
+      "name": "大包",
+      "variants": [],
+      "meridian": "足太陰脾經",
+      "meridianCode": "SP",
+      "bilateral": false,
+      "nodes": [
+        "pt_SP21"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT1",
+      "name": "極泉",
+      "variants": [],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT2",
+      "name": "青靈",
+      "variants": [],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT3",
+      "name": "少海",
+      "variants": [],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT4",
+      "name": "靈道",
+      "variants": [],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT5",
+      "name": "通里",
+      "variants": [],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT6",
+      "name": "陰郄",
+      "variants": [
+        "陰郤"
+      ],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT7",
+      "name": "神門",
+      "variants": [],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT8",
+      "name": "少府",
+      "variants": [],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "HT9",
+      "name": "少衝",
+      "variants": [
+        "少沖"
+      ],
+      "meridian": "手少陰心經",
+      "meridianCode": "HT",
+      "bilateral": false,
+      "nodes": [
+        "pt_HT9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI1",
+      "name": "少澤",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI2",
+      "name": "前谷",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI3",
+      "name": "後溪",
+      "variants": [
+        "後谿"
+      ],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI4",
+      "name": "腕骨",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI5",
+      "name": "陽谷",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI6",
+      "name": "養老",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI7",
+      "name": "支正",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI8",
+      "name": "小海",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI9",
+      "name": "肩貞",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI10",
+      "name": "臑俞",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI11",
+      "name": "天宗",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI12",
+      "name": "秉風",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI13",
+      "name": "曲垣",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI14",
+      "name": "肩外俞",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI15",
+      "name": "肩中俞",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI16",
+      "name": "天窗",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI17",
+      "name": "天容",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI18",
+      "name": "顴髎",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SI19",
+      "name": "聽宮",
+      "variants": [],
+      "meridian": "手太陽小腸經",
+      "meridianCode": "SI",
+      "bilateral": false,
+      "nodes": [
+        "pt_SI19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL1",
+      "name": "睛明",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL2",
+      "name": "攢竹",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL3",
+      "name": "眉衝",
+      "variants": [
+        "眉沖"
+      ],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL4",
+      "name": "曲差",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL5",
+      "name": "五處",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL6",
+      "name": "承光",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL7",
+      "name": "通天",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL8",
+      "name": "絡卻",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL9",
+      "name": "玉枕",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL10",
+      "name": "天柱",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL11",
+      "name": "大杼",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL12",
+      "name": "風門",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL13",
+      "name": "肺俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL14",
+      "name": "厥陰俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL15",
+      "name": "心俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL16",
+      "name": "督俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL17",
+      "name": "膈俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL18",
+      "name": "肝俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL19",
+      "name": "膽俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL20",
+      "name": "脾俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL21",
+      "name": "胃俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL21"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL22",
+      "name": "三焦俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL22"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL23",
+      "name": "腎俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL23"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL24",
+      "name": "氣海俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL24"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL25",
+      "name": "大腸俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL25"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL26",
+      "name": "關元俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL26"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL27",
+      "name": "小腸俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL27"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL28",
+      "name": "膀胱俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL28"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL29",
+      "name": "中膂俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL29"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL30",
+      "name": "白環俞",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL30"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL31",
+      "name": "上髎",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL31"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL32",
+      "name": "次髎",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL32"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL33",
+      "name": "中髎",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL33"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL34",
+      "name": "下髎",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL34"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL35",
+      "name": "會陽",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL35"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL36",
+      "name": "承扶",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL36"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL37",
+      "name": "殷門",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL37"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL38",
+      "name": "浮郄",
+      "variants": [
+        "浮郤"
+      ],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL38"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL39",
+      "name": "委陽",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL39"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL40",
+      "name": "委中",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL40"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL41",
+      "name": "附分",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL41"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL42",
+      "name": "魄戶",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL42"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL43",
+      "name": "膏肓",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL43"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL44",
+      "name": "神堂",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL44"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL45",
+      "name": "譩譆",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL45"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL46",
+      "name": "膈關",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL46"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL47",
+      "name": "魂門",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL47"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL48",
+      "name": "陽綱",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL48"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL49",
+      "name": "意舍",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL49"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL50",
+      "name": "胃倉",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL50"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL51",
+      "name": "肓門",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL51"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL52",
+      "name": "志室",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL52"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL53",
+      "name": "胞肓",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL53"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL54",
+      "name": "秩邊",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL54"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL55",
+      "name": "合陽",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL55"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL56",
+      "name": "承筋",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL56"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL57",
+      "name": "承山",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL57"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL58",
+      "name": "飛揚",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL58"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL59",
+      "name": "跗陽",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL59"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL60",
+      "name": "崑崙",
+      "variants": [
+        "昆侖",
+        "昆崙"
+      ],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL60"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL61",
+      "name": "僕參",
+      "variants": [
+        "仆參"
+      ],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL61"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL62",
+      "name": "申脈",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL62"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL63",
+      "name": "金門",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL63"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL64",
+      "name": "京骨",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL64"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL65",
+      "name": "束骨",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL65"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL66",
+      "name": "足通谷",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL66"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "BL67",
+      "name": "至陰",
+      "variants": [],
+      "meridian": "足太陽膀胱經",
+      "meridianCode": "BL",
+      "bilateral": false,
+      "nodes": [
+        "pt_BL67"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI1",
+      "name": "湧泉",
+      "variants": [
+        "涌泉"
+      ],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI2",
+      "name": "然谷",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI3",
+      "name": "太溪",
+      "variants": [
+        "太谿"
+      ],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI4",
+      "name": "大鍾",
+      "variants": [
+        "大鐘"
+      ],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI5",
+      "name": "水泉",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI6",
+      "name": "照海",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI7",
+      "name": "復溜",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI8",
+      "name": "交信",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI9",
+      "name": "築賓",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI10",
+      "name": "陰谷",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI11",
+      "name": "橫骨",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI12",
+      "name": "大赫",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI13",
+      "name": "氣穴",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI14",
+      "name": "四滿",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI15",
+      "name": "中注",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI16",
+      "name": "肓俞",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI17",
+      "name": "商曲",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI18",
+      "name": "石關",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI19",
+      "name": "陰都",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI20",
+      "name": "腹通谷",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI21",
+      "name": "幽門",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI21"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI22",
+      "name": "步廊",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI22"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI23",
+      "name": "神封",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI23"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI24",
+      "name": "靈墟",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI24"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI25",
+      "name": "神藏",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI25"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI26",
+      "name": "彧中",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI26"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "KI27",
+      "name": "俞府",
+      "variants": [],
+      "meridian": "足少陰腎經",
+      "meridianCode": "KI",
+      "bilateral": false,
+      "nodes": [
+        "pt_KI27"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC1",
+      "name": "天池",
+      "variants": [],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC2",
+      "name": "天泉",
+      "variants": [],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC3",
+      "name": "曲澤",
+      "variants": [],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC4",
+      "name": "郄門",
+      "variants": [
+        "郤門"
+      ],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC5",
+      "name": "間使",
+      "variants": [],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC6",
+      "name": "內關",
+      "variants": [],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC7",
+      "name": "大陵",
+      "variants": [],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC8",
+      "name": "勞宮",
+      "variants": [],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "PC9",
+      "name": "中衝",
+      "variants": [
+        "中沖"
+      ],
+      "meridian": "手厥陰心包經",
+      "meridianCode": "PC",
+      "bilateral": false,
+      "nodes": [
+        "pt_PC9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ1",
+      "name": "關衝",
+      "variants": [
+        "關沖"
+      ],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ2",
+      "name": "液門",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ3",
+      "name": "中渚",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ4",
+      "name": "陽池",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ5",
+      "name": "外關",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ6",
+      "name": "支溝",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ7",
+      "name": "會宗",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ8",
+      "name": "三陽絡",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ9",
+      "name": "四瀆",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ10",
+      "name": "天井",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ11",
+      "name": "清泠淵",
+      "variants": [
+        "清冷淵"
+      ],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ12",
+      "name": "消濼",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ13",
+      "name": "臑會",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ14",
+      "name": "肩髎",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ15",
+      "name": "天髎",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ16",
+      "name": "天牖",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ17",
+      "name": "翳風",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ18",
+      "name": "瘈脈",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ19",
+      "name": "顱息",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ20",
+      "name": "角孫",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ21",
+      "name": "耳門",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ21"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ22",
+      "name": "耳和髎",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ22"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "SJ23",
+      "name": "絲竹空",
+      "variants": [],
+      "meridian": "手少陽三焦經",
+      "meridianCode": "SJ",
+      "bilateral": false,
+      "nodes": [
+        "pt_SJ23"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB1",
+      "name": "瞳子髎",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB2",
+      "name": "聽會",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB3",
+      "name": "上關",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB4",
+      "name": "頷厭",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB5",
+      "name": "懸顱",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB6",
+      "name": "懸釐",
+      "variants": [
+        "懸厘"
+      ],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB7",
+      "name": "曲鬢",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB8",
+      "name": "率谷",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB9",
+      "name": "天衝",
+      "variants": [
+        "天沖"
+      ],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB10",
+      "name": "浮白",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB11",
+      "name": "頭竅陰",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB12",
+      "name": "完骨",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB13",
+      "name": "本神",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB14",
+      "name": "陽白",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB15",
+      "name": "頭臨泣",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB16",
+      "name": "目窗",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB17",
+      "name": "正營",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB18",
+      "name": "承靈",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB19",
+      "name": "腦空",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB20",
+      "name": "風池",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB21",
+      "name": "肩井",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB21"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB22",
+      "name": "淵腋",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB22"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB23",
+      "name": "輒筋",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB23"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB24",
+      "name": "日月",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB24"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB25",
+      "name": "京門",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB25"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB26",
+      "name": "帶脈",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB26"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB27",
+      "name": "五樞",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB27"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB28",
+      "name": "維道",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB28"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB29",
+      "name": "居髎",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB29"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB30",
+      "name": "環跳",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB30"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB31",
+      "name": "風市",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB31"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB32",
+      "name": "中瀆",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB32"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB33",
+      "name": "膝陽關",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB33"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB34",
+      "name": "陽陵泉",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB34"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB35",
+      "name": "陽交",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB35"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB36",
+      "name": "外丘",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB36"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB37",
+      "name": "光明",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB37"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB38",
+      "name": "陽輔",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB38"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB39",
+      "name": "懸鐘",
+      "variants": [
+        "懸鍾"
+      ],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB39"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB40",
+      "name": "丘墟",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB40"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB41",
+      "name": "足臨泣",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB41"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB42",
+      "name": "地五會",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB42"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB43",
+      "name": "俠溪",
+      "variants": [
+        "俠谿"
+      ],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB43"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "GB44",
+      "name": "足竅陰",
+      "variants": [],
+      "meridian": "足少陽膽經",
+      "meridianCode": "GB",
+      "bilateral": false,
+      "nodes": [
+        "pt_GB44"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR1",
+      "name": "大敦",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR2",
+      "name": "行間",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR3",
+      "name": "太衝",
+      "variants": [
+        "太沖"
+      ],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR4",
+      "name": "中封",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR5",
+      "name": "蠡溝",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR6",
+      "name": "中都",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR7",
+      "name": "膝關",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR8",
+      "name": "曲泉",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR9",
+      "name": "陰包",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR10",
+      "name": "足五里",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR11",
+      "name": "陰廉",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR12",
+      "name": "急脈",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR13",
+      "name": "章門",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "LR14",
+      "name": "期門",
+      "variants": [],
+      "meridian": "足厥陰肝經",
+      "meridianCode": "LR",
+      "bilateral": false,
+      "nodes": [
+        "pt_LR14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN1",
+      "name": "會陰",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN2",
+      "name": "曲骨",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN3",
+      "name": "中極",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN4",
+      "name": "關元",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN5",
+      "name": "石門",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN6",
+      "name": "氣海",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN7",
+      "name": "陰交",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN8",
+      "name": "神闕",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN9",
+      "name": "水分",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN10",
+      "name": "下脘",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN11",
+      "name": "建里",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN12",
+      "name": "中脘",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN13",
+      "name": "上脘",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN14",
+      "name": "巨闕",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN15",
+      "name": "鳩尾",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN16",
+      "name": "中庭",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN17",
+      "name": "膻中",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN18",
+      "name": "玉堂",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN19",
+      "name": "紫宮",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN20",
+      "name": "華蓋",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN21",
+      "name": "璇璣",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN21"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN22",
+      "name": "天突",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN22"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN23",
+      "name": "廉泉",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN23"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "RN24",
+      "name": "承漿",
+      "variants": [],
+      "meridian": "任脈",
+      "meridianCode": "CV",
+      "bilateral": false,
+      "nodes": [
+        "pt_RN24"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU1",
+      "name": "長強",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU1"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU2",
+      "name": "腰俞",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU2"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU3",
+      "name": "腰陽關",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU3"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU4",
+      "name": "命門",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU4"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU5",
+      "name": "懸樞",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU6",
+      "name": "脊中",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU6"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU7",
+      "name": "中樞",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU7"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU8",
+      "name": "筋縮",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU9",
+      "name": "至陽",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU10",
+      "name": "靈台",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU10"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU11",
+      "name": "神道",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU11"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU12",
+      "name": "身柱",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU12"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU13",
+      "name": "陶道",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU13"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU14",
+      "name": "大椎",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU14"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU15",
+      "name": "啞門",
+      "variants": [
+        "瘂門"
+      ],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU15"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU16",
+      "name": "風府",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU16"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU17",
+      "name": "腦戶",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU17"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU18",
+      "name": "強間",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU18"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU19",
+      "name": "後頂",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU19"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU20",
+      "name": "百會",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU20"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU21",
+      "name": "前頂",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU21"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU22",
+      "name": "囟會",
+      "variants": [
+        "顖會"
+      ],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU22"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU23",
+      "name": "上星",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU23"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU24",
+      "name": "神庭",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU24"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU25",
+      "name": "素髎",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU25"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU26",
+      "name": "水溝",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU26"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU27",
+      "name": "兌端",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU27"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "DU29",
+      "name": "印堂",
+      "variants": [],
+      "meridian": "督脈",
+      "meridianCode": "GV",
+      "bilateral": false,
+      "nodes": [
+        "pt_DU29"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HN1",
+      "name": "四神聰",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN1"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_HN2_L",
+      "name": "當陽",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN2_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HN4_L",
+      "name": "魚腰",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN4_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HN5_L",
+      "name": "太陽",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN5_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HN6_L",
+      "name": "耳尖",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN6_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HN7_L",
+      "name": "球後",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN7_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HN8_L",
+      "name": "上迎香",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN8_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HNJiachengjiang_L",
+      "name": "夾承漿",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HNJiachengjiang_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HNQianzheng_L",
+      "name": "牽正",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HNQianzheng_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HN14_L",
+      "name": "翳明",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN14_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HN15_L",
+      "name": "頸百勞",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HN15_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_HNAnmian_L",
+      "name": "安眠",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_HNAnmian_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_CA1_L",
+      "name": "子宮",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_CA1_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_CASanjiaojiu",
+      "name": "三角灸",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_CASanjiaojiu"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_B1_L",
+      "name": "定喘",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B1_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_B2_L",
+      "name": "夾脊",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B2_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_B3_L",
+      "name": "胃脘下俞",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B3_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_B4_L",
+      "name": "痞根",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B4_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_B5",
+      "name": "下極俞",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B5"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_B6_L",
+      "name": "腰宜",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B6_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_B7_L",
+      "name": "腰眼",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B7_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_B8",
+      "name": "十七椎",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B8"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_B9",
+      "name": "腰奇",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_B9"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_UEJianqian_L",
+      "name": "肩前",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UEJianqian_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_UE1_L",
+      "name": "肘尖",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE1_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_UE2_L",
+      "name": "二白",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE2_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_UE3_L",
+      "name": "中泉",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE3_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_UE4_L",
+      "name": "中魁",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE4_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_UE5_L",
+      "name": "大骨空",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE5_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_UE6_L",
+      "name": "小骨空",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE6_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_UE7_L",
+      "name": "腰痛點",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE7_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_UE8_L",
+      "name": "外勞宮",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE8_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_UE9_L",
+      "name": "八邪",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE9_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_UE10_L",
+      "name": "四縫",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE10_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_UE11_L",
+      "name": "十宣",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_UE11_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_LE1_L",
+      "name": "髖骨",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE1_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_LE2_L",
+      "name": "鶴頂",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE2_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_LE3_L",
+      "name": "百蟲窩",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE3_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_LE4_L",
+      "name": "內膝眼",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE4_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_LE6_L",
+      "name": "膽囊",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE6_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_LE7_L",
+      "name": "闌尾",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE7_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_LE8_L",
+      "name": "內踝尖",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE8_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_LE9_L",
+      "name": "外踝尖",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE9_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_LE10_L",
+      "name": "八風",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE10_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_LE11_L",
+      "name": "獨陰",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE11_L"
+      ],
+      "quizEligible": true,
+      "exclusionReason": null
+    },
+    {
+      "id": "EX_LE12_L",
+      "name": "氣端",
+      "variants": [],
+      "meridian": "經外奇穴",
+      "meridianCode": "EX",
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_LE12_L"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "multi-marker-group"
+    },
+    {
+      "id": "EX_BJieji",
+      "name": null,
+      "variants": [],
+      "meridian": null,
+      "meridianCode": null,
+      "bilateral": false,
+      "nodes": [
+        "pt_EX_BJieji"
+      ],
+      "quizEligible": false,
+      "exclusionReason": "unresolved-name-and-meridian"
+    }
+  ],
+  "review": {
+    "date": "2026-11-15",
+    "authority": "使用者審校輸出.md及明確授權",
+    "document": "docs/審校輸出.md",
+    "sha256": "8eef6d63ae00fdfbd576134e241a5d90353b320479137a6ab60c23eee59c5c1b",
+    "approvedQuestions": 396,
+    "variantPointCount": 27,
+    "variantStringCount": 28
+  }
+}
