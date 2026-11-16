@@ -52,17 +52,48 @@ function renderOverview(){
   if(event.key==='Enter'&&!$('#overview-matches').hidden){event.preventDefault();const point=overview.matches[Math.max(0,overview.active)];if(point)chooseOverviewPoint(point.id);}
  }});
  const groups=[...new Map(eligible.map(point=>[point.meridianCode,point.meridian]))];
- const category=element('select',{id:'overview-meridian','aria-label':'依經絡分類',onchange:()=>{overview.meridian=category.value;overview.id=null;overview.query='';search.value='';closeOverviewMatches();scene?.setMeridianFilter(overview.meridian);scene?.select(null);scene?.view('reset');paintOverviewDetail();paintOverviewBrowse();}},element('option',{value:''},'全部經絡'),groups.map(([code,name])=>element('option',{value:code,selected:code===overview.meridian},name)));
- panel.replaceChildren(element('div',{class:'overview-search-wrap'},element('label',{for:'overview-search',class:'sr-only'},'搜尋穴位名稱、異體字或代碼'),search,element('span',{class:'search-mark','aria-hidden':'true'}),element('div',{id:'overview-matches',class:'overview-matches',role:'listbox','aria-label':'穴位搜尋結果',hidden:true})),element('div',{class:'overview-filter'},category,element('span',{id:'overview-count',class:'overview-count'})),element('div',{id:'overview-detail',class:'overview-detail'}),element('details',{id:'overview-browse',class:'overview-browse',hidden:!overview.meridian},element('summary',{},'瀏覽此經絡穴位'),element('div',{id:'overview-point-list',class:'overview-point-list'})));
+ const categoryName=groups.find(([code])=>code===overview.meridian)?.[1]??'全部經絡';
+ const category=element('button',{type:'button',id:'overview-meridian',class:'overview-meridian-trigger','aria-label':'選擇經脈，'+categoryName,'aria-haspopup':'listbox','aria-controls':'overview-meridian-menu','aria-expanded':'false',onclick:()=>toggleOverviewMeridians(),onkeydown:event=>{if(['ArrowDown','ArrowUp','Home','End'].includes(event.key)){event.preventDefault();toggleOverviewMeridians(true,event.key);}}},element('span',{class:'overview-meridian-label'},categoryName),element('span',{class:'overview-chevron','aria-hidden':'true'}));
+ const menu=element('div',{id:'overview-meridian-menu',class:'overview-meridian-menu',popover:'manual',role:'listbox','aria-label':'經脈',hidden:true,onkeydown:handleOverviewMeridianKey},[['','全部經絡'],...groups].map(([code,name])=>element('button',{type:'button',id:'overview-meridian-option-'+(code||'all'),class:'overview-meridian-option',role:'option',tabIndex:-1,'data-meridian':code,'aria-selected':String(code===overview.meridian),onclick:()=>selectOverviewMeridian(code)},name)));
+ menu.addEventListener('toggle',event=>{if(event.newState==='closed'){menu.hidden=true;category.setAttribute('aria-expanded','false');}});
+ panel.replaceChildren(element('div',{class:'overview-search-wrap'},element('label',{for:'overview-search',class:'sr-only'},'搜尋穴位名稱、異體字或代碼'),search,element('span',{class:'search-mark','aria-hidden':'true'}),element('div',{id:'overview-matches',class:'overview-matches',role:'listbox','aria-label':'穴位搜尋結果',hidden:true})),element('div',{id:'overview-detail',class:'overview-detail'}),element('div',{class:'overview-filter'},category,menu),element('div',{id:'overview-browse',class:'overview-browse',role:'group','aria-label':'經脈穴位',hidden:!overview.meridian},element('div',{id:'overview-point-list',class:'overview-point-list'})));
  paintOverviewDetail();paintOverviewBrowse();
+}
+function positionOverviewMeridians(){
+ const trigger=$('#overview-meridian'),menu=$('#overview-meridian-menu');if(!trigger||menu?.hidden)return;
+ const viewport=window.visualViewport,left=viewport?.offsetLeft??0,top=viewport?.offsetTop??0,width=viewport?.width??innerWidth,height=viewport?.height??innerHeight,rect=trigger.getBoundingClientRect(),gap=8,inset=12;
+ const menuWidth=Math.min(368,width-inset*2);menu.style.width=menuWidth+'px';
+ const above=rect.top-top-inset-gap,below=top+height-rect.bottom-inset-gap,goAbove=above>below,space=Math.max(44,goAbove?above:below),menuHeight=Math.min(menu.scrollHeight,space,400);
+ menu.style.maxHeight=Math.min(space,400)+'px';menu.style.left=Math.max(left+inset,Math.min(rect.left,left+width-menuWidth-inset))+'px';menu.style.top=Math.max(top+inset,Math.min(goAbove?rect.top-gap-menuHeight:rect.bottom+gap,top+height-menuHeight-inset))+'px';
+}
+function toggleOverviewMeridians(open=$('#overview-meridian')?.getAttribute('aria-expanded')!=='true',key=''){
+ const trigger=$('#overview-meridian'),menu=$('#overview-meridian-menu');if(!trigger||!menu)return;
+ if(!open){if(menu.hidePopover&&menu.matches(':popover-open'))menu.hidePopover();menu.hidden=true;trigger.setAttribute('aria-expanded','false');return;}
+ closeOverviewMatches();menu.hidden=false;trigger.setAttribute('aria-expanded','true');if(menu.showPopover&&!menu.matches(':popover-open'))menu.showPopover();positionOverviewMeridians();
+ const options=[...menu.querySelectorAll('[role="option"]')],active=key==='Home'?options[0]:key==='End'?options.at(-1):options.find(option=>option.dataset.meridian===overview.meridian);
+ for(const option of options)option.tabIndex=option===active?0:-1;active?.focus({preventScroll:true});active?.scrollIntoView({block:'nearest'});
+}
+function handleOverviewMeridianKey(event){
+ if(event.key==='Escape'){event.preventDefault();event.stopPropagation();toggleOverviewMeridians(false);$('#overview-meridian').focus({preventScroll:true});return;}
+ if(event.key==='Tab'){toggleOverviewMeridians(false);$('#overview-meridian').focus({preventScroll:true});return;}
+ if(!['ArrowDown','ArrowUp','ArrowLeft','ArrowRight','Home','End'].includes(event.key))return;
+ event.preventDefault();const options=[...event.currentTarget.querySelectorAll('[role="option"]')],current=Math.max(0,options.indexOf(document.activeElement)),step=event.key==='ArrowDown'?2:event.key==='ArrowUp'?-2:event.key==='ArrowLeft'?-1:1,index=event.key==='Home'?0:event.key==='End'?options.length-1:(current+step+options.length)%options.length;
+ for(const [i,option] of options.entries())option.tabIndex=i===index?0:-1;options[index].focus({preventScroll:true});options[index].scrollIntoView({block:'nearest'});
+}
+function selectOverviewMeridian(code){
+ const option=[...$('#overview-meridian-menu').querySelectorAll('[role="option"]')].find(node=>node.dataset.meridian===code);if(!option)return;
+ if(code===overview.meridian){toggleOverviewMeridians(false);$('#overview-meridian').focus({preventScroll:true});return;}
+ toggleOverviewMeridians(false);overview.meridian=code;overview.id=null;overview.query='';$('#overview-search').value='';closeOverviewMatches();$('#overview-meridian .overview-meridian-label').textContent=option.textContent;$('#overview-meridian').setAttribute('aria-label','選擇經脈，'+option.textContent);
+ for(const choice of $('#overview-meridian-menu').querySelectorAll('[role="option"]'))choice.setAttribute('aria-selected',String(choice===option));
+ scene?.setMeridianFilter(code);scene?.select(null);scene?.view('reset');paintOverviewDetail();paintOverviewBrowse();$('#overview-meridian').focus({preventScroll:true});
 }
 function paintOverviewDetail(){
  const point=points.get(overview.id),detail=$('#overview-detail');if(!detail)return;detail.dataset.pointId=point?.id??'';
- detail.replaceChildren(point?element('p',{class:'overview-meta'},point.meridian+' · '+point.id):element('p',{class:'overview-meta'},'穴位複習'),element('h1',{class:'overview-name'},point?.name??'選個穴位，開始複習'),element('p',{class:'overview-position'},point?.positiontext??'點選模型上的穴位，或搜尋名稱與代碼。'));
+ detail.replaceChildren(element('h1',{class:'overview-name'},point?.name??'選擇穴位'),...(point?[element('p',{class:'overview-meta'},point.meridian+' · '+point.id),element('p',{class:'overview-position'},point.positiontext)]:[]));
 }
 function paintOverviewBrowse(){
- const rows=searchOverviewPoints(eligible,'',overview.meridian);$('#overview-count').textContent=rows.length+' 穴';$('#overview-browse').hidden=!overview.meridian;
- $('#overview-point-list').replaceChildren(...(overview.meridian?rows:[]).map(point=>element('button',{type:'button','data-point-id':point.id,'aria-pressed':point.id===overview.id,onclick:()=>chooseOverviewPoint(point.id)},element('span',{},point.name),element('small',{},point.id))));
+ const rows=searchOverviewPoints(eligible,'',overview.meridian);$('#overview-browse').hidden=!overview.meridian;
+ $('#overview-point-list').replaceChildren(...(overview.meridian?rows:[]).map(point=>element('button',{type:'button','data-point-id':point.id,'aria-pressed':point.id===overview.id,onclick:()=>chooseOverviewPoint(point.id)},point.name)));
 }
 function closeOverviewMatches(){const input=$('#overview-search');if(!input)return;$('#overview-matches').hidden=true;input.setAttribute('aria-expanded','false');input.removeAttribute('aria-activedescendant');overview.active=-1;}
 function updateOverviewMatches(){
@@ -75,7 +106,7 @@ function updateOverviewMatches(){
 function paintOverviewActive(){const input=$('#overview-search');for(const [index,option] of [...$('#overview-matches').querySelectorAll('[role="option"]')].entries())option.setAttribute('aria-selected',String(index===overview.active));if(overview.active>=0){const option=$('#overview-option-'+overview.active);input.setAttribute('aria-activedescendant',option.id);option.scrollIntoView({block:'nearest'});}else input.removeAttribute('aria-activedescendant');}
 function chooseOverviewPoint(id,{focus=true}={}){
  const point=points.get(id);if(route!=='overview'||!point?.quizEligible||overview.meridian&&point.meridianCode!==overview.meridian)return;
- overview.id=id;overview.query=point.name;$('#overview-search').value=point.name;closeOverviewMatches();paintOverviewDetail();for(const choice of panel.querySelectorAll('[data-point-id]'))choice.setAttribute('aria-pressed',String(choice.dataset.pointId===id));scene?.select(id);
+ overview.id=id;closeOverviewMatches();paintOverviewDetail();for(const choice of panel.querySelectorAll('[data-point-id]'))choice.setAttribute('aria-pressed',String(choice.dataset.pointId===id));scene?.select(id);
  if(focus){scene?.focusPoint(id);if(matchMedia('(max-width:700px)').matches){$('#overview-search').blur();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'});}}
  announce(point.name+'，'+point.positiontext);
 }
@@ -155,7 +186,9 @@ $('#theme-button').addEventListener('click',()=>{const dark=$('#theme-button').g
 $('#settings-button').addEventListener('click',()=>toggleSettings($('#settings-menu').hidden));
 $('#settings-shell').addEventListener('keydown',event=>{const controls=[$('#settings-button'),$('#theme-button'),$('#page-button')];if(event.key==='Escape'){event.preventDefault();toggleSettings(false);controls[0].focus();}else if(['ArrowDown','ArrowUp','Home','End'].includes(event.key)){event.preventDefault();toggleSettings(true);let index=controls.indexOf(document.activeElement);index=event.key==='Home'?0:event.key==='End'?2:(index+(event.key==='ArrowDown'?1:-1)+3)%3;controls[index].focus();}});
 $('#settings-shell').addEventListener('focusout',event=>{if(!event.currentTarget.contains(event.relatedTarget))toggleSettings(false);});
-document.addEventListener('pointerdown',event=>{if(!$('#settings-shell').contains(event.target))toggleSettings(false);if(!event.target.closest('.overview-search-wrap'))closeOverviewMatches();});
+document.addEventListener('pointerdown',event=>{if(!$('#settings-shell').contains(event.target))toggleSettings(false);if(!event.target.closest('.overview-search-wrap'))closeOverviewMatches();if(!event.target.closest('.overview-filter'))toggleOverviewMeridians(false);});
+panel.addEventListener('focusout',event=>{if(event.target.closest('.overview-filter')&&!event.relatedTarget?.closest('.overview-filter'))toggleOverviewMeridians(false);});
+addEventListener('resize',positionOverviewMeridians);addEventListener('scroll',()=>toggleOverviewMeridians(false),{passive:true});window.visualViewport?.addEventListener('resize',positionOverviewMeridians);
 panel.addEventListener('focusout',event=>{if(event.target.id==='overview-search'&&!event.relatedTarget?.closest('#overview-matches'))closeOverviewMatches();});
 for(const link of [$('.brand'),$('#page-button')])link.addEventListener('click',event=>{if(event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;event.preventDefault();requestRoute(link.hash.slice(1));});
 for(const control of document.querySelectorAll('[data-view]'))control.addEventListener('click',()=>scene?.view(control.dataset.view));
