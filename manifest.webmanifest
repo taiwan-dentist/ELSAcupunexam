@@ -6,7 +6,7 @@
   "lang": "zh-Hant-TW",
   "start_url": "./",
   "scope": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#f7f1ec",
   "theme_color": "#f7f1ec",
   "prefer_related_applications": false,

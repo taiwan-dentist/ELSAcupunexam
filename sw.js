@@ -1,5 +1,5 @@
 // tools/prepare-pwa.mjs updates this version and the complete local asset list.
-const CACHE_VERSION='666c3339295def66';
+const CACHE_VERSION='082d4565d81c5907';
 const ASSETS=[
  "css/app.css",
  "data/geometry.json",
