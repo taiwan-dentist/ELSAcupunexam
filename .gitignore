@@ -5,6 +5,8 @@
 !/.gitignore
 !/.nojekyll
 !/index.html
+!/manifest.webmanifest
+!/sw.js
 !/css/
 !/js/
 !/data/

@@ -15,7 +15,8 @@
         "pt_LU1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸前壁外上方，前正中線（華蓋）旁開6寸，與第1肋間隙相平的凹陷處"
     },
     {
       "id": "LU2",
@@ -28,7 +29,8 @@
         "pt_LU2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸前壁外上方，鎖骨下窩凹陷處，前正中線旁開6寸"
     },
     {
       "id": "LU3",
@@ -41,7 +43,8 @@
         "pt_LU3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂內側面，肱二頭肌橈側緣，腋前紋頭下3寸處"
     },
     {
       "id": "LU4",
@@ -54,7 +57,8 @@
         "pt_LU4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂內側面，肱二頭肌橈側緣，腋前紋頭下4寸（肘橫紋上5寸）處"
     },
     {
       "id": "LU5",
@@ -67,7 +71,8 @@
         "pt_LU5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肘橫紋中，肱二頭肌腱橈側凹陷處"
     },
     {
       "id": "LU6",
@@ -80,7 +85,8 @@
         "pt_LU6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂掌面橈側，尺澤與太淵連線上，腕橫紋上7寸處"
     },
     {
       "id": "LU7",
@@ -93,7 +99,8 @@
         "pt_LU7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂橈側緣，橈骨莖突上方，腕橫紋上1.5寸處"
     },
     {
       "id": "LU8",
@@ -106,7 +113,8 @@
         "pt_LU8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂掌面橈側，橈骨莖突與橈動脈之間凹陷處，腕橫紋上1寸"
     },
     {
       "id": "LU9",
@@ -119,7 +127,8 @@
         "pt_LU9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腕掌側橫紋橈側，橈動脈搏動處"
     },
     {
       "id": "LU10",
@@ -132,7 +141,8 @@
         "pt_LU10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "第1掌骨中點橈側，赤白肉際處"
     },
     {
       "id": "LU11",
@@ -145,7 +155,8 @@
         "pt_LU11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手拇指末節橈側，距指甲角0.1寸處"
     },
     {
       "id": "LI1",
@@ -158,7 +169,8 @@
         "pt_LI1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "食指末節橈側，距指甲角1分處"
     },
     {
       "id": "LI2",
@@ -171,7 +183,8 @@
         "pt_LI2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "微握拳，食指本節（第2掌指關節）前橈側凹陷處"
     },
     {
       "id": "LI3",
@@ -184,7 +197,8 @@
         "pt_LI3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "微握拳，食指本節（第2掌指關節）後橈側凹陷處"
     },
     {
       "id": "LI4",
@@ -197,7 +211,8 @@
         "pt_LI4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手背第1、2掌骨間，當第2掌骨橈側的中點處"
     },
     {
       "id": "LI5",
@@ -212,7 +227,8 @@
         "pt_LI5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腕背橫紋橈側，手拇指上翹時，拇短伸肌腱與拇長伸肌腱之間的凹陷處"
     },
     {
       "id": "LI6",
@@ -225,7 +241,8 @@
         "pt_LI6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈肘，前臂背面橈側，陽溪與曲池連線上，腕背橫紋上3寸處"
     },
     {
       "id": "LI7",
@@ -238,7 +255,8 @@
         "pt_LI7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈肘，前臂背面橈側，陽溪與曲池連線上，腕背橫紋上5寸處"
     },
     {
       "id": "LI8",
@@ -251,7 +269,8 @@
         "pt_LI8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背面橈側，陽溪與曲池連線上，肘橫紋下4寸處"
     },
     {
       "id": "LI9",
@@ -264,7 +283,8 @@
         "pt_LI9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背面橈側，陽溪與曲池連線上，肘橫紋下3寸處"
     },
     {
       "id": "LI10",
@@ -277,7 +297,8 @@
         "pt_LI10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背面橈側，陽溪與曲池連線上，肘橫紋下2寸處"
     },
     {
       "id": "LI11",
@@ -290,7 +311,8 @@
         "pt_LI11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈肘成直角，在肘橫紋外側端與肱骨外上髁連線中點凹陷處"
     },
     {
       "id": "LI12",
@@ -303,7 +325,8 @@
         "pt_LI12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈肘，臂外側，曲池外上方1寸，肱骨邊緣處"
     },
     {
       "id": "LI13",
@@ -316,7 +339,8 @@
         "pt_LI13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂外側，曲池與肩髃連線上，曲池上3寸處"
     },
     {
       "id": "LI14",
@@ -329,7 +353,8 @@
         "pt_LI14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂外側，三角肌止點處，曲池與肩髃連線上，曲池上7寸處"
     },
     {
       "id": "LI15",
@@ -342,7 +367,8 @@
         "pt_LI15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩部三角肌上，臂外展或前平伸時，肩峰前下方凹陷處"
     },
     {
       "id": "LI16",
@@ -355,7 +381,8 @@
         "pt_LI16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩上部，鎖骨肩峰端與肩胛岡之間凹陷處"
     },
     {
       "id": "LI17",
@@ -368,7 +395,8 @@
         "pt_LI17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸外側部，胸鎖乳突肌後緣，喉結旁，扶突與缺盆連線中點"
     },
     {
       "id": "LI18",
@@ -381,7 +409,8 @@
         "pt_LI18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸外側部，喉結旁，當胸鎖乳突肌的前、後緣之間"
     },
     {
       "id": "LI19",
@@ -394,7 +423,8 @@
         "pt_LI19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上唇部，鼻孔外緣直下，平水溝穴"
     },
     {
       "id": "LI20",
@@ -407,7 +437,8 @@
         "pt_LI20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "鼻翼外緣中點旁，當鼻唇溝中"
     },
     {
       "id": "ST1",
@@ -420,7 +451,8 @@
         "pt_ST1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，瞳孔直下，當眼球與眶下緣之間"
     },
     {
       "id": "ST2",
@@ -433,7 +465,8 @@
         "pt_ST2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，瞳孔直下，當眶下孔凹陷處"
     },
     {
       "id": "ST3",
@@ -446,7 +479,8 @@
         "pt_ST3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，瞳孔直下，平鼻翼下緣處，當鼻唇溝外側"
     },
     {
       "id": "ST4",
@@ -459,7 +493,8 @@
         "pt_ST4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，口角外側，上直對瞳孔"
     },
     {
       "id": "ST5",
@@ -472,7 +507,8 @@
         "pt_ST5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下頜角前方，咬肌附著部前緣，閉口鼓氣時即出現溝形凹陷處"
     },
     {
       "id": "ST6",
@@ -485,7 +521,8 @@
         "pt_ST6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面頰部，下頜角前上方約1橫指（中指），咀嚼時咬肌隆起最高點處"
     },
     {
       "id": "ST7",
@@ -498,7 +535,8 @@
         "pt_ST7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部耳前方，當顴弓與下頜切跡所形成的凹陷處"
     },
     {
       "id": "ST8",
@@ -511,7 +549,8 @@
         "pt_ST8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭側部，當額角髮際上0.5寸，頭正中線旁開4.5寸"
     },
     {
       "id": "ST9",
@@ -524,7 +563,8 @@
         "pt_ST9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸部，喉結旁，當胸鎖乳突肌的前緣，頸總動脈搏動處"
     },
     {
       "id": "ST10",
@@ -537,7 +577,8 @@
         "pt_ST10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸部，胸鎖乳突肌的前緣，當人迎與氣舍連線的中點"
     },
     {
       "id": "ST11",
@@ -550,7 +591,8 @@
         "pt_ST11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸部，鎖骨內側端的上緣，胸鎖乳突肌的胸骨頭與鎖骨頭之間"
     },
     {
       "id": "ST12",
@@ -563,7 +605,8 @@
         "pt_ST12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "鎖骨上窩中央，距前正中線4寸"
     },
     {
       "id": "ST13",
@@ -576,7 +619,8 @@
         "pt_ST13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，鎖骨中點下緣，距前正中線4寸"
     },
     {
       "id": "ST14",
@@ -589,7 +633,8 @@
         "pt_ST14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第1肋間隙，距前正中線4寸"
     },
     {
       "id": "ST15",
@@ -602,7 +647,8 @@
         "pt_ST15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第2肋間隙，距前正中線4寸"
     },
     {
       "id": "ST16",
@@ -615,7 +661,8 @@
         "pt_ST16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第3肋間隙，距前正中線4寸"
     },
     {
       "id": "ST17",
@@ -628,7 +675,8 @@
         "pt_ST17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第4肋間隙，乳頭中央，距前正中線4寸"
     },
     {
       "id": "ST18",
@@ -641,7 +689,8 @@
         "pt_ST18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，乳頭直下乳房根部，第5肋間隙，距前正中線4寸"
     },
     {
       "id": "ST19",
@@ -654,7 +703,8 @@
         "pt_ST19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上6寸，距前正中線2寸"
     },
     {
       "id": "ST20",
@@ -667,7 +717,8 @@
         "pt_ST20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上5寸，距前正中線2寸"
     },
     {
       "id": "ST21",
@@ -680,7 +731,8 @@
         "pt_ST21"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上4寸，距前正中線2寸"
     },
     {
       "id": "ST22",
@@ -693,7 +745,8 @@
         "pt_ST22"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上3寸，距前正中線2寸"
     },
     {
       "id": "ST23",
@@ -706,7 +759,8 @@
         "pt_ST23"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上2寸，距前正中線2寸"
     },
     {
       "id": "ST24",
@@ -719,7 +773,8 @@
         "pt_ST24"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上1寸，距前正中線2寸"
     },
     {
       "id": "ST25",
@@ -732,7 +787,8 @@
         "pt_ST25"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腹中部，平臍中，距臍中2寸"
     },
     {
       "id": "ST26",
@@ -745,7 +801,8 @@
         "pt_ST26"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下1寸，距前正中線2寸"
     },
     {
       "id": "ST27",
@@ -758,7 +815,8 @@
         "pt_ST27"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下2寸，距前正中線2寸"
     },
     {
       "id": "ST28",
@@ -771,7 +829,8 @@
         "pt_ST28"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下3寸，距前正中線2寸"
     },
     {
       "id": "ST29",
@@ -784,7 +843,8 @@
         "pt_ST29"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下4寸，距前正中線2寸"
     },
     {
       "id": "ST30",
@@ -799,7 +859,8 @@
         "pt_ST30"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腹股溝稍上方，當臍中下5寸，距前正中線2寸"
     },
     {
       "id": "ST31",
@@ -812,7 +873,8 @@
         "pt_ST31"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿前面，髂前上棘與髕底外側端連線上，屈股時平會陰，居縫匠肌外側凹陷處"
     },
     {
       "id": "ST32",
@@ -825,7 +887,8 @@
         "pt_ST32"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿前面，髂前上棘與髕底外側端連線上，髕底上6寸"
     },
     {
       "id": "ST33",
@@ -838,7 +901,8 @@
         "pt_ST33"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿前面，髂前上棘與髕底外側端連線上，髕底上3寸"
     },
     {
       "id": "ST34",
@@ -851,7 +915,8 @@
         "pt_ST34"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈膝，大腿前面，髂前上棘與髕底外側端連線上，髕底上2寸"
     },
     {
       "id": "ST35",
@@ -864,7 +929,8 @@
         "pt_ST35"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈膝，在膝部，髕骨與髕韌帶外側凹陷處"
     },
     {
       "id": "ST36",
@@ -877,7 +943,8 @@
         "pt_ST36"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿前外側，當犢鼻下3寸，距脛骨前緣一橫指（中指）"
     },
     {
       "id": "ST37",
@@ -890,7 +957,8 @@
         "pt_ST37"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿前外側，當犢鼻下6寸，距脛骨前緣一橫指（中指）"
     },
     {
       "id": "ST38",
@@ -903,7 +971,8 @@
         "pt_ST38"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿前外側，當犢鼻下8寸，距脛骨前緣一橫指（中指）"
     },
     {
       "id": "ST39",
@@ -916,7 +985,8 @@
         "pt_ST39"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿前外側，當犢鼻下9寸，距脛骨前緣一橫指（中指）"
     },
     {
       "id": "ST40",
@@ -929,7 +999,8 @@
         "pt_ST40"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿前外側，當外踝尖上8寸，條口外，距脛骨前緣二橫指（中指）"
     },
     {
       "id": "ST41",
@@ -944,7 +1015,8 @@
         "pt_ST41"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背與小腿交界處的橫紋中央凹陷處，當拇長伸肌腱與趾長伸肌腱之間"
     },
     {
       "id": "ST42",
@@ -959,7 +1031,8 @@
         "pt_ST42"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背最高處，當拇長伸肌腱與趾長伸肌腱之間，足背動脈搏動處"
     },
     {
       "id": "ST43",
@@ -972,7 +1045,8 @@
         "pt_ST43"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背第2、3蹠骨結合部前方凹陷處"
     },
     {
       "id": "ST44",
@@ -985,7 +1059,8 @@
         "pt_ST44"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背當第2、3趾間，趾蹼緣後方赤白肉際處"
     },
     {
       "id": "ST45",
@@ -998,7 +1073,8 @@
         "pt_ST45"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足第2趾末節外側，距趾甲角0.1寸處"
     },
     {
       "id": "SP1",
@@ -1011,7 +1087,8 @@
         "pt_SP1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足大趾末節內側，距趾甲角0.1寸處"
     },
     {
       "id": "SP2",
@@ -1024,7 +1101,8 @@
         "pt_SP2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足大趾內側，第1蹠趾關節前下方赤白肉際凹陷處"
     },
     {
       "id": "SP3",
@@ -1037,7 +1115,8 @@
         "pt_SP3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內側緣，第1蹠骨小頭後下方赤白肉際凹陷處"
     },
     {
       "id": "SP4",
@@ -1050,7 +1129,8 @@
         "pt_SP4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內側緣，第1蹠骨基底的前下方凹陷處"
     },
     {
       "id": "SP5",
@@ -1063,7 +1143,8 @@
         "pt_SP5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內踝前下方凹陷中，當舟骨結節與內踝尖連線的中點處"
     },
     {
       "id": "SP6",
@@ -1076,7 +1157,8 @@
         "pt_SP6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當足內踝尖上3寸，脛骨內側緣後方"
     },
     {
       "id": "SP7",
@@ -1089,7 +1171,8 @@
         "pt_SP7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當足內踝尖與陰陵泉連線上，距內踝尖6寸，脛骨內側緣後方"
     },
     {
       "id": "SP8",
@@ -1102,7 +1185,8 @@
         "pt_SP8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當內踝尖與陰陵泉連線上，陰陵泉下3寸"
     },
     {
       "id": "SP9",
@@ -1115,7 +1199,8 @@
         "pt_SP9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當脛骨內側髁後下方凹陷處"
     },
     {
       "id": "SP10",
@@ -1128,7 +1213,8 @@
         "pt_SP10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈膝，大腿內側，髕底內側端上2寸，當股四頭肌內側頭的隆起處"
     },
     {
       "id": "SP11",
@@ -1141,7 +1227,8 @@
         "pt_SP11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿內側，當血海與衝門連線上，血海上6寸"
     },
     {
       "id": "SP12",
@@ -1156,7 +1243,8 @@
         "pt_SP12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腹股溝外側，距恥骨聯合上緣中點3.5寸，當髂外動脈搏動處的外側"
     },
     {
       "id": "SP13",
@@ -1169,7 +1257,8 @@
         "pt_SP13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在下腹部，當臍中下4寸，衝門上方0.7寸，距前正中線4寸"
     },
     {
       "id": "SP14",
@@ -1182,7 +1271,8 @@
         "pt_SP14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在下腹部，大橫下1.3寸，距前正中線4寸"
     },
     {
       "id": "SP15",
@@ -1195,7 +1285,8 @@
         "pt_SP15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在腹中部，距臍中4寸"
     },
     {
       "id": "SP16",
@@ -1208,7 +1299,8 @@
         "pt_SP16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在上腹部，當臍中上3寸，距前正中線4寸"
     },
     {
       "id": "SP17",
@@ -1221,7 +1313,8 @@
         "pt_SP17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在胸外側部，當第5肋間隙，距前正中線6寸"
     },
     {
       "id": "SP18",
@@ -1236,7 +1329,8 @@
         "pt_SP18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在胸外側部，當第4肋間隙，乳頭外2寸，距前正中線6寸"
     },
     {
       "id": "SP19",
@@ -1249,7 +1343,8 @@
         "pt_SP19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在胸外側部，當第3肋間隙，距前正中線6寸"
     },
     {
       "id": "SP20",
@@ -1262,7 +1357,8 @@
         "pt_SP20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在胸外側部，當第2肋間隙，距前正中線6寸"
     },
     {
       "id": "SP21",
@@ -1275,7 +1371,8 @@
         "pt_SP21"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "在側胸部，腋中線上，當第6肋間隙處"
     },
     {
       "id": "HT1",
@@ -1288,7 +1385,8 @@
         "pt_HT1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腋窩頂點，腋動脈搏動處"
     },
     {
       "id": "HT2",
@@ -1301,7 +1399,8 @@
         "pt_HT2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂內側，極泉與少海連線上，肘橫紋上3寸，肱二頭肌的內側溝中"
     },
     {
       "id": "HT3",
@@ -1314,7 +1413,8 @@
         "pt_HT3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈肘，當肘橫紋內側端與肱骨內上髁連線的中點處"
     },
     {
       "id": "HT4",
@@ -1327,7 +1427,8 @@
         "pt_HT4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂掌側，當尺側腕屈肌腱的橈側緣，腕橫紋上1.5寸"
     },
     {
       "id": "HT5",
@@ -1340,7 +1441,8 @@
         "pt_HT5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂掌側，當尺側腕屈肌腱的橈側緣，腕橫紋上1寸"
     },
     {
       "id": "HT6",
@@ -1355,7 +1457,8 @@
         "pt_HT6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂掌側，當尺側腕屈肌腱的橈側緣，腕橫紋上0.5寸"
     },
     {
       "id": "HT7",
@@ -1368,7 +1471,8 @@
         "pt_HT7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腕部腕掌側橫紋尺側端，尺側腕屈肌腱的橈側凹陷處"
     },
     {
       "id": "HT8",
@@ -1381,7 +1485,8 @@
         "pt_HT8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手掌面，第4、5掌骨之間，握拳時當小指尖處"
     },
     {
       "id": "HT9",
@@ -1396,7 +1501,8 @@
         "pt_HT9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手小指末節橈側，距指甲角0.1寸處"
     },
     {
       "id": "SI1",
@@ -1409,7 +1515,8 @@
         "pt_SI1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手小指末節尺側，距指甲角0.1寸處"
     },
     {
       "id": "SI2",
@@ -1422,7 +1529,8 @@
         "pt_SI2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "微握拳，手掌尺側，第5掌指關節前凹陷中，赤白肉際處"
     },
     {
       "id": "SI3",
@@ -1437,7 +1545,8 @@
         "pt_SI3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "微握拳，手掌尺側，第5掌指關節後的遠側掌橫紋頭赤白肉際處"
     },
     {
       "id": "SI4",
@@ -1450,7 +1559,8 @@
         "pt_SI4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手掌尺側，當第5掌骨基底與鉤骨之間的凹陷處，赤白肉際"
     },
     {
       "id": "SI5",
@@ -1463,7 +1573,8 @@
         "pt_SI5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手腕尺側，當尺骨莖突與三角骨之間的凹陷處"
     },
     {
       "id": "SI6",
@@ -1476,7 +1587,8 @@
         "pt_SI6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背面尺側，當尺骨小頭近端橈側凹陷處"
     },
     {
       "id": "SI7",
@@ -1489,7 +1601,8 @@
         "pt_SI7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背面尺側，當陽谷與小海的連線上，腕背橫紋上5寸"
     },
     {
       "id": "SI8",
@@ -1502,7 +1615,8 @@
         "pt_SI8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肘內側，當尺骨鷹嘴與肱骨內上髁之間凹陷處"
     },
     {
       "id": "SI9",
@@ -1515,7 +1629,8 @@
         "pt_SI9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩關節後下方，臂內收時，腋後紋頭上1寸"
     },
     {
       "id": "SI10",
@@ -1528,7 +1643,8 @@
         "pt_SI10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩部，腋後紋頭直上，肩胛岡下緣凹陷中"
     },
     {
       "id": "SI11",
@@ -1541,7 +1657,8 @@
         "pt_SI11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩胛部，當岡下窩中央凹陷處，與第4胸椎相平"
     },
     {
       "id": "SI12",
@@ -1554,7 +1671,8 @@
         "pt_SI12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩胛部，岡上窩中央，天宗直上，舉臂有凹陷處"
     },
     {
       "id": "SI13",
@@ -1567,7 +1685,8 @@
         "pt_SI13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩胛部，岡上窩內側端，當臑俞與第2胸椎棘突連線的中點處"
     },
     {
       "id": "SI14",
@@ -1580,7 +1699,8 @@
         "pt_SI14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第1胸椎棘突下，旁開3寸"
     },
     {
       "id": "SI15",
@@ -1593,7 +1713,8 @@
         "pt_SI15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第7頸椎棘突下，旁開2寸"
     },
     {
       "id": "SI16",
@@ -1606,7 +1727,8 @@
         "pt_SI16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸外側部，胸鎖乳突肌的後緣，扶突後，與喉結相平"
     },
     {
       "id": "SI17",
@@ -1619,7 +1741,8 @@
         "pt_SI17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸外側部，當下頜角的後方，胸鎖乳突肌的前緣凹陷處"
     },
     {
       "id": "SI18",
@@ -1632,7 +1755,8 @@
         "pt_SI18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當目外眥直下，顴骨下緣凹陷處"
     },
     {
       "id": "SI19",
@@ -1645,7 +1769,8 @@
         "pt_SI19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，耳屏前，下頜骨髁狀突的後方，張口時呈凹陷處"
     },
     {
       "id": "BL1",
@@ -1658,7 +1783,8 @@
         "pt_BL1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，目內眥角稍上方凹陷處"
     },
     {
       "id": "BL2",
@@ -1671,7 +1797,8 @@
         "pt_BL2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當眉頭陷中，眶上切跡處"
     },
     {
       "id": "BL3",
@@ -1686,7 +1813,8 @@
         "pt_BL3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當眉頭直上，入髮際0.5寸，神庭與曲差連線之間"
     },
     {
       "id": "BL4",
@@ -1699,7 +1827,8 @@
         "pt_BL4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上0.5寸，旁開1.5寸，即神庭與頭維連線的內1/3與中1/3交點"
     },
     {
       "id": "BL5",
@@ -1712,7 +1841,8 @@
         "pt_BL5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上1寸，旁開1.5寸"
     },
     {
       "id": "BL6",
@@ -1725,7 +1855,8 @@
         "pt_BL6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上2.5寸，旁開1.5寸"
     },
     {
       "id": "BL7",
@@ -1738,7 +1869,8 @@
         "pt_BL7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上4寸，旁開1.5寸"
     },
     {
       "id": "BL8",
@@ -1751,7 +1883,8 @@
         "pt_BL8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上5.5寸，旁開1.5寸"
     },
     {
       "id": "BL9",
@@ -1764,7 +1897,8 @@
         "pt_BL9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "後頭部，當後髮際正中直上2.5寸，旁開1.3寸，平枕外隆凸上緣的凹陷處"
     },
     {
       "id": "BL10",
@@ -1777,7 +1911,8 @@
         "pt_BL10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "項部大筋（斜方肌）外緣之後髮際凹陷中，約當後髮際正中旁開1.3寸"
     },
     {
       "id": "BL11",
@@ -1790,7 +1925,8 @@
         "pt_BL11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第1胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL12",
@@ -1803,7 +1939,8 @@
         "pt_BL12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第2胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL13",
@@ -1816,7 +1953,8 @@
         "pt_BL13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第3胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL14",
@@ -1829,7 +1967,8 @@
         "pt_BL14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第4胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL15",
@@ -1842,7 +1981,8 @@
         "pt_BL15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第5胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL16",
@@ -1855,7 +1995,8 @@
         "pt_BL16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第6胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL17",
@@ -1868,7 +2009,8 @@
         "pt_BL17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第7胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL18",
@@ -1881,7 +2023,8 @@
         "pt_BL18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第9胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL19",
@@ -1894,7 +2037,8 @@
         "pt_BL19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第10胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL20",
@@ -1907,7 +2051,8 @@
         "pt_BL20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第11胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL21",
@@ -1920,7 +2065,8 @@
         "pt_BL21"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第12胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL22",
@@ -1933,7 +2079,8 @@
         "pt_BL22"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第1腰椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL23",
@@ -1946,7 +2093,8 @@
         "pt_BL23"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第2腰椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL24",
@@ -1959,7 +2107,8 @@
         "pt_BL24"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第3腰椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL25",
@@ -1972,7 +2121,8 @@
         "pt_BL25"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第4腰椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL26",
@@ -1985,7 +2135,8 @@
         "pt_BL26"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第5腰椎棘突下，旁開1.5寸"
     },
     {
       "id": "BL27",
@@ -1998,7 +2149,8 @@
         "pt_BL27"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當骶正中嵴旁1.5寸，平第1骶後孔"
     },
     {
       "id": "BL28",
@@ -2011,7 +2163,8 @@
         "pt_BL28"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當骶正中嵴旁1.5寸，平第2骶後孔"
     },
     {
       "id": "BL29",
@@ -2024,7 +2177,8 @@
         "pt_BL29"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當骶正中嵴旁1.5寸，平第3骶後孔"
     },
     {
       "id": "BL30",
@@ -2037,7 +2191,8 @@
         "pt_BL30"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當骶正中嵴旁1.5寸，平第4骶後孔"
     },
     {
       "id": "BL31",
@@ -2050,7 +2205,8 @@
         "pt_BL31"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當髂後上棘與後正中線之間，適對第1骶後孔處"
     },
     {
       "id": "BL32",
@@ -2063,7 +2219,8 @@
         "pt_BL32"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當髂後上棘內下方，適對第2骶後孔處"
     },
     {
       "id": "BL33",
@@ -2076,7 +2233,8 @@
         "pt_BL33"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當次髎下內方，適對第3骶後孔處"
     },
     {
       "id": "BL34",
@@ -2089,7 +2247,8 @@
         "pt_BL34"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當中髎下內方，適對第4骶後孔處"
     },
     {
       "id": "BL35",
@@ -2102,7 +2261,8 @@
         "pt_BL35"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，尾骨端旁開0.5寸"
     },
     {
       "id": "BL36",
@@ -2115,7 +2275,8 @@
         "pt_BL36"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿後面，臀下橫紋的中點"
     },
     {
       "id": "BL37",
@@ -2128,7 +2289,8 @@
         "pt_BL37"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿後面，當承扶與委中的連線上，承扶下6寸"
     },
     {
       "id": "BL38",
@@ -2143,7 +2305,8 @@
         "pt_BL38"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "膕橫紋外側端，委陽上1寸，股二頭肌腱的內側"
     },
     {
       "id": "BL39",
@@ -2156,7 +2319,8 @@
         "pt_BL39"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "膕橫紋外側端，當股二頭肌腱的內側"
     },
     {
       "id": "BL40",
@@ -2169,7 +2333,8 @@
         "pt_BL40"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "膕橫紋中點，當股二頭肌腱與半腱肌肌腱的中間"
     },
     {
       "id": "BL41",
@@ -2182,7 +2347,8 @@
         "pt_BL41"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第2胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL42",
@@ -2195,7 +2361,8 @@
         "pt_BL42"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第3胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL43",
@@ -2208,7 +2375,8 @@
         "pt_BL43"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第4胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL44",
@@ -2221,7 +2389,8 @@
         "pt_BL44"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第5胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL45",
@@ -2234,7 +2403,8 @@
         "pt_BL45"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第6胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL46",
@@ -2247,7 +2417,8 @@
         "pt_BL46"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第7胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL47",
@@ -2260,7 +2431,8 @@
         "pt_BL47"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第9胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL48",
@@ -2273,7 +2445,8 @@
         "pt_BL48"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第10胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL49",
@@ -2286,7 +2459,8 @@
         "pt_BL49"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第11胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL50",
@@ -2299,7 +2473,8 @@
         "pt_BL50"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第12胸椎棘突下，旁開3寸"
     },
     {
       "id": "BL51",
@@ -2312,7 +2487,8 @@
         "pt_BL51"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第1腰椎棘突下，旁開3寸"
     },
     {
       "id": "BL52",
@@ -2325,7 +2501,8 @@
         "pt_BL52"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第2腰椎棘突下，旁開3寸"
     },
     {
       "id": "BL53",
@@ -2338,7 +2515,8 @@
         "pt_BL53"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臀部，平第2骶後孔，骶正中嵴旁開3寸"
     },
     {
       "id": "BL54",
@@ -2351,7 +2529,8 @@
         "pt_BL54"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臀部，平第4骶後孔，骶正中嵴旁開3寸"
     },
     {
       "id": "BL55",
@@ -2364,7 +2543,8 @@
         "pt_BL55"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿後面，當委中與承山的連線上，委中下2寸"
     },
     {
       "id": "BL56",
@@ -2377,7 +2557,8 @@
         "pt_BL56"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿後面，當委中與承山的連線上，腓腸肌肌腹中央，委中下5寸"
     },
     {
       "id": "BL57",
@@ -2390,7 +2571,8 @@
         "pt_BL57"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿後面正中，委中與崑崙之間，伸直小腿或足跟上提時腓腸肌肌腹下出現尖角凹陷處"
     },
     {
       "id": "BL58",
@@ -2403,7 +2585,8 @@
         "pt_BL58"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿後面，外踝後上方，崑崙穴直上7寸，承山外下方1寸處"
     },
     {
       "id": "BL59",
@@ -2416,7 +2599,8 @@
         "pt_BL59"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿後面，外踝後，崑崙穴直上3寸"
     },
     {
       "id": "BL60",
@@ -2432,7 +2616,8 @@
         "pt_BL60"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足部外踝後方，當外踝尖與跟腱之間的凹陷處"
     },
     {
       "id": "BL61",
@@ -2447,7 +2632,8 @@
         "pt_BL61"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足外側部，外踝後下方崑崙穴直下，跟骨外側赤白肉際處"
     },
     {
       "id": "BL62",
@@ -2460,7 +2646,8 @@
         "pt_BL62"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足外側部，外踝直下方凹陷中"
     },
     {
       "id": "BL63",
@@ -2473,7 +2660,8 @@
         "pt_BL63"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足外側部，當外踝前緣直下，骰骨下緣處"
     },
     {
       "id": "BL64",
@@ -2486,7 +2674,8 @@
         "pt_BL64"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足外側部，第5蹠骨粗隆下方，赤白肉際處"
     },
     {
       "id": "BL65",
@@ -2499,7 +2688,8 @@
         "pt_BL65"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足外側部，足小趾本節（第5蹠趾關節）的後方，赤白肉際處"
     },
     {
       "id": "BL66",
@@ -2512,7 +2702,8 @@
         "pt_BL66"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足外側部，足小趾本節（第5蹠趾關節）的前方，赤白肉際處"
     },
     {
       "id": "BL67",
@@ -2525,7 +2716,8 @@
         "pt_BL67"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足小趾末節外側，距趾甲角0.1寸處"
     },
     {
       "id": "KI1",
@@ -2540,7 +2732,8 @@
         "pt_KI1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足底部，蜷足時足前部凹陷處，約當足底第2、3趾趾縫紋頭端與足跟連線的前1/3與後2/3交點上"
     },
     {
       "id": "KI2",
@@ -2553,7 +2746,8 @@
         "pt_KI2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內側緣，足舟骨粗隆下方，赤白肉際處"
     },
     {
       "id": "KI3",
@@ -2568,7 +2762,8 @@
         "pt_KI3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內側，內踝後方，當內踝尖與跟腱之間的凹陷處"
     },
     {
       "id": "KI4",
@@ -2583,7 +2778,8 @@
         "pt_KI4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內側，內踝後下方，當跟腱附著部的內側前方凹陷處"
     },
     {
       "id": "KI5",
@@ -2596,7 +2792,8 @@
         "pt_KI5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內側，內踝後下方，當太溪直下1寸，跟骨結節的內側凹陷處"
     },
     {
       "id": "KI6",
@@ -2609,7 +2806,8 @@
         "pt_KI6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內側，內踝尖下方凹陷處"
     },
     {
       "id": "KI7",
@@ -2622,7 +2820,8 @@
         "pt_KI7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，太溪直上2寸，跟腱的前方"
     },
     {
       "id": "KI8",
@@ -2635,7 +2834,8 @@
         "pt_KI8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當太溪直上2寸，復溜前0.5寸，脛骨內側緣的後方"
     },
     {
       "id": "KI9",
@@ -2648,7 +2848,8 @@
         "pt_KI9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當太溪與陰谷的連線上，太溪上5寸，腓腸肌肌腹的內下方"
     },
     {
       "id": "KI10",
@@ -2661,7 +2862,8 @@
         "pt_KI10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "膕窩內側，屈膝時，當半腱肌肌腱與半膜肌肌腱之間"
     },
     {
       "id": "KI11",
@@ -2674,7 +2876,8 @@
         "pt_KI11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下5寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI12",
@@ -2687,7 +2890,8 @@
         "pt_KI12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下4寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI13",
@@ -2700,7 +2904,8 @@
         "pt_KI13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下3寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI14",
@@ -2713,7 +2918,8 @@
         "pt_KI14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下2寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI15",
@@ -2726,7 +2932,8 @@
         "pt_KI15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下1寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI16",
@@ -2739,7 +2946,8 @@
         "pt_KI16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腹中部，當臍中旁開0.5寸"
     },
     {
       "id": "KI17",
@@ -2752,7 +2960,8 @@
         "pt_KI17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上2寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI18",
@@ -2765,7 +2974,8 @@
         "pt_KI18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上3寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI19",
@@ -2778,7 +2988,8 @@
         "pt_KI19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上4寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI20",
@@ -2791,7 +3002,8 @@
         "pt_KI20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上5寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI21",
@@ -2804,7 +3016,8 @@
         "pt_KI21"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當臍中上6寸，前正中線旁開0.5寸"
     },
     {
       "id": "KI22",
@@ -2817,7 +3030,8 @@
         "pt_KI22"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第5肋間隙，前正中線旁開2寸"
     },
     {
       "id": "KI23",
@@ -2830,7 +3044,8 @@
         "pt_KI23"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第4肋間隙，前正中線旁開2寸"
     },
     {
       "id": "KI24",
@@ -2843,7 +3058,8 @@
         "pt_KI24"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第3肋間隙，前正中線旁開2寸"
     },
     {
       "id": "KI25",
@@ -2856,7 +3072,8 @@
         "pt_KI25"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第2肋間隙，前正中線旁開2寸"
     },
     {
       "id": "KI26",
@@ -2869,7 +3086,8 @@
         "pt_KI26"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第1肋間隙，前正中線旁開2寸"
     },
     {
       "id": "KI27",
@@ -2882,7 +3100,8 @@
         "pt_KI27"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當鎖骨下緣，前正中線旁開2寸"
     },
     {
       "id": "PC1",
@@ -2895,7 +3114,8 @@
         "pt_PC1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當第4肋間隙，乳頭外1寸，前正中線旁開5寸"
     },
     {
       "id": "PC2",
@@ -2908,7 +3128,8 @@
         "pt_PC2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂內側面，當腋前紋頭下2寸，肱二頭肌的長、短頭之間"
     },
     {
       "id": "PC3",
@@ -2921,7 +3142,8 @@
         "pt_PC3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肘橫紋中，當肱二頭肌腱的尺側緣"
     },
     {
       "id": "PC4",
@@ -2936,7 +3158,8 @@
         "pt_PC4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂掌側，當曲澤與大陵的連線上，腕橫紋上5寸"
     },
     {
       "id": "PC5",
@@ -2949,7 +3172,8 @@
         "pt_PC5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂掌側，當曲澤與大陵的連線上，腕橫紋上3寸，掌長肌腱與橈側腕屈肌腱之間"
     },
     {
       "id": "PC6",
@@ -2962,7 +3186,8 @@
         "pt_PC6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂掌側，當曲澤與大陵的連線上，腕橫紋上2寸，掌長肌腱與橈側腕屈肌腱之間"
     },
     {
       "id": "PC7",
@@ -2975,7 +3200,8 @@
         "pt_PC7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腕掌橫紋的中點處，當掌長肌腱與橈側腕屈肌腱之間"
     },
     {
       "id": "PC8",
@@ -2988,7 +3214,8 @@
         "pt_PC8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手掌心，當第2、3掌骨之間偏於第3掌骨，握拳屈指時中指尖處"
     },
     {
       "id": "PC9",
@@ -3003,7 +3230,8 @@
         "pt_PC9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手中指末節尖端中央"
     },
     {
       "id": "SJ1",
@@ -3018,7 +3246,8 @@
         "pt_SJ1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手無名指末節尺側，距指甲角0.1寸處"
     },
     {
       "id": "SJ2",
@@ -3031,7 +3260,8 @@
         "pt_SJ2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手背部，當無名指與小指間，指蹼緣後方赤白肉際處"
     },
     {
       "id": "SJ3",
@@ -3044,7 +3274,8 @@
         "pt_SJ3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手背部，當無名指本節（掌指關節）的後方，第4、5掌骨間凹陷處"
     },
     {
       "id": "SJ4",
@@ -3057,7 +3288,8 @@
         "pt_SJ4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腕背橫紋中，當指總伸肌腱的尺側緣凹陷處"
     },
     {
       "id": "SJ5",
@@ -3070,7 +3302,8 @@
         "pt_SJ5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背側，當陽池與肘尖的連線上，腕背橫紋上2寸，尺骨與橈骨之間"
     },
     {
       "id": "SJ6",
@@ -3083,7 +3316,8 @@
         "pt_SJ6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背側，當陽池與肘尖的連線上，腕背橫紋上3寸，尺骨與橈骨之間"
     },
     {
       "id": "SJ7",
@@ -3096,7 +3330,8 @@
         "pt_SJ7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背側，腕背橫紋上3寸，支溝尺側，尺骨的橈側緣"
     },
     {
       "id": "SJ8",
@@ -3109,7 +3344,8 @@
         "pt_SJ8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背側，腕背橫紋上4寸，尺骨與橈骨之間"
     },
     {
       "id": "SJ9",
@@ -3122,7 +3358,8 @@
         "pt_SJ9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前臂背側，當陽池與肘尖的連線上，肘尖下5寸，尺骨與橈骨之間"
     },
     {
       "id": "SJ10",
@@ -3135,7 +3372,8 @@
         "pt_SJ10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂外側，屈肘時，當肘尖直上1寸凹陷處"
     },
     {
       "id": "SJ11",
@@ -3150,7 +3388,8 @@
         "pt_SJ11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂外側，屈肘，當肘尖直上2寸，即天井上1寸"
     },
     {
       "id": "SJ12",
@@ -3163,7 +3402,8 @@
         "pt_SJ12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂外側，當清泠淵與臑會連線上，清泠淵上3寸"
     },
     {
       "id": "SJ13",
@@ -3176,7 +3416,8 @@
         "pt_SJ13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "臂外側，當肘尖與肩髎的連線上，肩髎下3寸，三角肌的後下緣"
     },
     {
       "id": "SJ14",
@@ -3189,7 +3430,8 @@
         "pt_SJ14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩部，肩髃後方，當臂外展時，於肩峰後下方呈現凹陷處"
     },
     {
       "id": "SJ15",
@@ -3202,7 +3444,8 @@
         "pt_SJ15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩胛部，肩井與曲垣的中間，當肩胛骨上角處"
     },
     {
       "id": "SJ16",
@@ -3215,7 +3458,8 @@
         "pt_SJ16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸側部，當下頜角的後方，胸鎖乳突肌的後緣凹陷處"
     },
     {
       "id": "SJ17",
@@ -3228,7 +3472,8 @@
         "pt_SJ17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "耳垂後方，當乳突與下頜角之間的凹陷處"
     },
     {
       "id": "SJ18",
@@ -3241,7 +3486,8 @@
         "pt_SJ18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，耳後乳突中央，當角孫與翳風之間，沿耳輪連線的下、中1/3交點處"
     },
     {
       "id": "SJ19",
@@ -3254,7 +3500,8 @@
         "pt_SJ19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，耳後乳突上方，當角孫與翳風之間，沿耳輪連線的上、中1/3交點處"
     },
     {
       "id": "SJ20",
@@ -3267,7 +3514,8 @@
         "pt_SJ20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，折耳郭向前，當耳尖直上入髮際處"
     },
     {
       "id": "SJ21",
@@ -3280,7 +3528,8 @@
         "pt_SJ21"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當耳屏上切跡的前方，下頜骨髁狀突後緣，張口有凹陷處"
     },
     {
       "id": "SJ22",
@@ -3293,7 +3542,8 @@
         "pt_SJ22"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭側部，當鬢髮後緣，平耳郭根之前方，顳淺動脈的後緣"
     },
     {
       "id": "SJ23",
@@ -3306,7 +3556,8 @@
         "pt_SJ23"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當眉梢凹陷處"
     },
     {
       "id": "GB1",
@@ -3319,7 +3570,8 @@
         "pt_GB1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，目外眥旁，當眶外側緣處"
     },
     {
       "id": "GB2",
@@ -3332,7 +3584,8 @@
         "pt_GB2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當耳屏間切跡的前方，下頜骨髁狀突的後緣，張口有凹陷處"
     },
     {
       "id": "GB3",
@@ -3345,7 +3598,8 @@
         "pt_GB3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "耳前，下關直上，當顴弓的上緣凹陷處"
     },
     {
       "id": "GB4",
@@ -3358,7 +3612,8 @@
         "pt_GB4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部鬢髮上，當頭維與曲鬢弧形連線的上1/4與下3/4交點處"
     },
     {
       "id": "GB5",
@@ -3371,7 +3626,8 @@
         "pt_GB5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部鬢髮上，當頭維與曲鬢弧形連線的中點處"
     },
     {
       "id": "GB6",
@@ -3386,7 +3642,8 @@
         "pt_GB6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部鬢髮上，當頭維與曲鬢弧形連線的上3/4與下1/4交點處"
     },
     {
       "id": "GB7",
@@ -3399,7 +3656,8 @@
         "pt_GB7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當耳前鬢角髮際後緣的垂線與耳尖水平線交點處"
     },
     {
       "id": "GB8",
@@ -3412,7 +3670,8 @@
         "pt_GB8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當耳尖直上入髮際1.5寸，角孫直上方"
     },
     {
       "id": "GB9",
@@ -3427,7 +3686,8 @@
         "pt_GB9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當耳根後緣直上入髮際2寸，率谷後0.5寸處"
     },
     {
       "id": "GB10",
@@ -3440,7 +3700,8 @@
         "pt_GB10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當耳後乳突的後上方，天衝與完骨的弧形連線的中1/3與上1/3交點處"
     },
     {
       "id": "GB11",
@@ -3453,7 +3714,8 @@
         "pt_GB11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當耳後乳突的後上方，天衝與完骨的中1/3與下1/3交點處"
     },
     {
       "id": "GB12",
@@ -3466,7 +3728,8 @@
         "pt_GB12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當耳後乳突的後下方凹陷處"
     },
     {
       "id": "GB13",
@@ -3479,7 +3742,8 @@
         "pt_GB13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際上0.5寸，神庭旁開3寸，神庭與頭維連線的外1/3與中2/3交點處"
     },
     {
       "id": "GB14",
@@ -3492,7 +3756,8 @@
         "pt_GB14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前額部，當瞳孔直上，眉上1寸"
     },
     {
       "id": "GB15",
@@ -3505,7 +3770,8 @@
         "pt_GB15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際上0.5寸，頭正中線旁開2.25寸，瞳孔直上"
     },
     {
       "id": "GB16",
@@ -3518,7 +3784,8 @@
         "pt_GB16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際上1.5寸，頭正中線旁開2.25寸"
     },
     {
       "id": "GB17",
@@ -3531,7 +3798,8 @@
         "pt_GB17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際上2.5寸，頭正中線旁開2.25寸"
     },
     {
       "id": "GB18",
@@ -3544,7 +3812,8 @@
         "pt_GB18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際上4寸，頭正中線旁開2.25寸"
     },
     {
       "id": "GB19",
@@ -3557,7 +3826,8 @@
         "pt_GB19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "後頭部，當枕外隆凸的上緣外側，頭正中線旁開2.25寸，平腦戶"
     },
     {
       "id": "GB20",
@@ -3570,7 +3840,8 @@
         "pt_GB20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "項部，當枕骨之下，與風府相平，胸鎖乳突肌與斜方肌上端之間的凹陷處"
     },
     {
       "id": "GB21",
@@ -3583,7 +3854,8 @@
         "pt_GB21"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩上，前直乳中，當大椎與肩峰端連線的中點上"
     },
     {
       "id": "GB22",
@@ -3596,7 +3868,8 @@
         "pt_GB22"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "側胸部，舉臂腋中線上，腋下3寸，第4肋間隙中"
     },
     {
       "id": "GB23",
@@ -3609,7 +3882,8 @@
         "pt_GB23"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "側胸部，淵腋前1寸，平乳頭，第4肋間隙中"
     },
     {
       "id": "GB24",
@@ -3622,7 +3896,8 @@
         "pt_GB24"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當乳頭直下，第7肋間隙，前正中線旁開4寸"
     },
     {
       "id": "GB25",
@@ -3635,7 +3910,8 @@
         "pt_GB25"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "側腰部，章門後1.8寸，當第十二肋骨游離端的下方"
     },
     {
       "id": "GB26",
@@ -3648,7 +3924,8 @@
         "pt_GB26"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "側腹部，章門下1.8寸，當第十一肋骨游離端下方垂線與臍水平線的交點上"
     },
     {
       "id": "GB27",
@@ -3661,7 +3938,8 @@
         "pt_GB27"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "側腹部，當髂前上棘的前方，橫平臍下3寸處"
     },
     {
       "id": "GB28",
@@ -3674,7 +3952,8 @@
         "pt_GB28"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "側腹部，當髂前上棘的前下方，五樞前下0.5寸"
     },
     {
       "id": "GB29",
@@ -3687,7 +3966,8 @@
         "pt_GB29"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "髖部，當髂前上棘與股骨大轉子最凸點連線的中點處"
     },
     {
       "id": "GB30",
@@ -3700,7 +3980,8 @@
         "pt_GB30"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "側臥屈股，股骨大轉子最凸點與骶管裂孔連線的外1/3與中2/3交點處"
     },
     {
       "id": "GB31",
@@ -3713,7 +3994,8 @@
         "pt_GB31"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿外側部的中線上，當膕橫紋上7寸，或直立垂手時中指尖處"
     },
     {
       "id": "GB32",
@@ -3726,7 +4008,8 @@
         "pt_GB32"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿外側，當風市下2寸，或膕橫紋上5寸，股外側肌與股二頭肌之間"
     },
     {
       "id": "GB33",
@@ -3739,7 +4022,8 @@
         "pt_GB33"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "膝外側，當陽陵泉上3寸，股骨外上髁上方的凹陷處"
     },
     {
       "id": "GB34",
@@ -3752,7 +4036,8 @@
         "pt_GB34"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿外側，當腓骨小頭前下方凹陷處"
     },
     {
       "id": "GB35",
@@ -3765,7 +4050,8 @@
         "pt_GB35"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿外側，當外踝尖上7寸，腓骨後緣"
     },
     {
       "id": "GB36",
@@ -3778,7 +4064,8 @@
         "pt_GB36"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿外側，當外踝尖上7寸，腓骨前緣，平陽交"
     },
     {
       "id": "GB37",
@@ -3791,7 +4078,8 @@
         "pt_GB37"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿外側，當外踝尖上5寸，腓骨前緣"
     },
     {
       "id": "GB38",
@@ -3804,7 +4092,8 @@
         "pt_GB38"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿外側，當外踝尖上4寸，腓骨前緣稍前方"
     },
     {
       "id": "GB39",
@@ -3819,7 +4108,8 @@
         "pt_GB39"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿外側，當外踝尖上3寸，腓骨前緣"
     },
     {
       "id": "GB40",
@@ -3832,7 +4122,8 @@
         "pt_GB40"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足外踝的前下方，當趾長伸肌腱的外側凹陷處"
     },
     {
       "id": "GB41",
@@ -3845,7 +4136,8 @@
         "pt_GB41"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背外側，當足4趾本節（第4蹠趾關節）的後方，小趾伸肌腱的外側凹陷處"
     },
     {
       "id": "GB42",
@@ -3858,7 +4150,8 @@
         "pt_GB42"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背外側，當足4趾本節（第4蹠趾關節）的後方，第4、5蹠骨之間，小趾伸肌腱的內側緣"
     },
     {
       "id": "GB43",
@@ -3873,7 +4166,8 @@
         "pt_GB43"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背外側，當第4、5趾間，趾蹼緣後方赤白肉際處"
     },
     {
       "id": "GB44",
@@ -3886,7 +4180,8 @@
         "pt_GB44"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足第4趾末節外側，距趾甲角0.1寸處"
     },
     {
       "id": "LR1",
@@ -3899,7 +4194,8 @@
         "pt_LR1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足大趾末節外側，距趾甲角0.1寸處"
     },
     {
       "id": "LR2",
@@ -3912,7 +4208,8 @@
         "pt_LR2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背側，當第1、2趾間，趾蹼緣的後方赤白肉際處"
     },
     {
       "id": "LR3",
@@ -3927,7 +4224,8 @@
         "pt_LR3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背側，當第1蹠骨間隙的後方凹陷處"
     },
     {
       "id": "LR4",
@@ -3940,7 +4238,8 @@
         "pt_LR4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足背側，當足內踝前，商丘與解溪連線上，脛骨前肌腱的內側凹陷處"
     },
     {
       "id": "LR5",
@@ -3953,7 +4252,8 @@
         "pt_LR5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當足內踝尖上5寸，脛骨內側面的中央"
     },
     {
       "id": "LR6",
@@ -3966,7 +4266,8 @@
         "pt_LR6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當足內踝尖上7寸，脛骨內側面的中央"
     },
     {
       "id": "LR7",
@@ -3979,7 +4280,8 @@
         "pt_LR7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿內側，當脛骨內側髁的後下方，陰陵泉後1寸，腓腸肌內側頭的上部"
     },
     {
       "id": "LR8",
@@ -3992,7 +4294,8 @@
         "pt_LR8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈膝，膝關節內側橫紋內側端，股骨內側髁後緣與半腱肌、半膜肌止端前緣凹陷處"
     },
     {
       "id": "LR9",
@@ -4005,7 +4308,8 @@
         "pt_LR9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿內側，當股骨內上髁上4寸，股內側肌與縫匠肌之間"
     },
     {
       "id": "LR10",
@@ -4018,7 +4322,8 @@
         "pt_LR10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿內側根部，氣衝直下3寸，恥骨結節下方長收肌外緣"
     },
     {
       "id": "LR11",
@@ -4031,7 +4336,8 @@
         "pt_LR11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "大腿內側根部，氣衝直下2寸，恥骨結節下方長收肌外緣"
     },
     {
       "id": "LR12",
@@ -4044,7 +4350,8 @@
         "pt_LR12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "恥骨結節的外側，當氣衝外下方腹股溝股動脈搏動處，前正中線旁開2.5寸"
     },
     {
       "id": "LR13",
@@ -4057,7 +4364,8 @@
         "pt_LR13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "側腹部，當第11肋游離端的下方"
     },
     {
       "id": "LR14",
@@ -4070,7 +4378,8 @@
         "pt_LR14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當乳頭直下，第6肋間隙，前正中線旁開4寸"
     },
     {
       "id": "RN1",
@@ -4083,7 +4392,8 @@
         "pt_RN1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "會陰部，男性當陰囊根部與肛門連線的中點，女性當大陰唇後聯合與肛門連線的中點"
     },
     {
       "id": "RN2",
@@ -4096,7 +4406,8 @@
         "pt_RN2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當前正中線上，恥骨聯合上緣的中點處"
     },
     {
       "id": "RN3",
@@ -4109,7 +4420,8 @@
         "pt_RN3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當前正中線上，當臍中下4寸"
     },
     {
       "id": "RN4",
@@ -4122,7 +4434,8 @@
         "pt_RN4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當前正中線上，當臍中下3寸"
     },
     {
       "id": "RN5",
@@ -4135,7 +4448,8 @@
         "pt_RN5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當前正中線上，當臍中下2寸"
     },
     {
       "id": "RN6",
@@ -4148,7 +4462,8 @@
         "pt_RN6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當前正中線上，當臍中下1.5寸"
     },
     {
       "id": "RN7",
@@ -4161,7 +4476,8 @@
         "pt_RN7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當前正中線上，當臍中下1寸"
     },
     {
       "id": "RN8",
@@ -4174,7 +4490,8 @@
         "pt_RN8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腹中部，臍中央"
     },
     {
       "id": "RN9",
@@ -4187,7 +4504,8 @@
         "pt_RN9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當前正中線上，當臍中上1寸"
     },
     {
       "id": "RN10",
@@ -4200,7 +4518,8 @@
         "pt_RN10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當前正中線上，當臍中上2寸"
     },
     {
       "id": "RN11",
@@ -4213,7 +4532,8 @@
         "pt_RN11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當前正中線上，當臍中上3寸"
     },
     {
       "id": "RN12",
@@ -4226,7 +4546,8 @@
         "pt_RN12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當前正中線上，當臍中上4寸"
     },
     {
       "id": "RN13",
@@ -4239,7 +4560,8 @@
         "pt_RN13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當前正中線上，當臍中上5寸"
     },
     {
       "id": "RN14",
@@ -4252,7 +4574,8 @@
         "pt_RN14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當前正中線上，當臍中上6寸"
     },
     {
       "id": "RN15",
@@ -4265,7 +4588,8 @@
         "pt_RN15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "上腹部，當前正中線上，當胸劍結合部下1寸"
     },
     {
       "id": "RN16",
@@ -4278,7 +4602,8 @@
         "pt_RN16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當前正中線上，平第5肋間，即胸劍結合部"
     },
     {
       "id": "RN17",
@@ -4291,7 +4616,8 @@
         "pt_RN17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當前正中線上，平第4肋間，兩乳頭連線的中點"
     },
     {
       "id": "RN18",
@@ -4304,7 +4630,8 @@
         "pt_RN18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當前正中線上，平第3肋間"
     },
     {
       "id": "RN19",
@@ -4317,7 +4644,8 @@
         "pt_RN19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當前正中線上，平第2肋間"
     },
     {
       "id": "RN20",
@@ -4330,7 +4658,8 @@
         "pt_RN20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當前正中線上，平第1肋間"
     },
     {
       "id": "RN21",
@@ -4343,7 +4672,8 @@
         "pt_RN21"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "胸部，當前正中線上，天突下1寸"
     },
     {
       "id": "RN22",
@@ -4356,7 +4686,8 @@
         "pt_RN22"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸部，當前正中線上，胸骨上窩中央"
     },
     {
       "id": "RN23",
@@ -4369,7 +4700,8 @@
         "pt_RN23"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頸部，當前正中線上，結喉上方，舌骨上緣凹陷處"
     },
     {
       "id": "RN24",
@@ -4382,7 +4714,8 @@
         "pt_RN24"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當頦唇溝的正中凹陷處"
     },
     {
       "id": "DU1",
@@ -4395,7 +4728,8 @@
         "pt_DU1"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "尾骨端下，當尾骨端與肛門連線的中點處"
     },
     {
       "id": "DU2",
@@ -4408,7 +4742,8 @@
         "pt_DU2"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當後正中線上，適對骶管裂孔"
     },
     {
       "id": "DU3",
@@ -4421,7 +4756,8 @@
         "pt_DU3"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當後正中線上，第4腰椎棘突下凹陷中"
     },
     {
       "id": "DU4",
@@ -4434,7 +4770,8 @@
         "pt_DU4"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當後正中線上，第2腰椎棘突下凹陷中"
     },
     {
       "id": "DU5",
@@ -4447,7 +4784,8 @@
         "pt_DU5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當後正中線上，第1腰椎棘突下凹陷中"
     },
     {
       "id": "DU6",
@@ -4460,7 +4798,8 @@
         "pt_DU6"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當後正中線上，第11胸椎棘突下凹陷中"
     },
     {
       "id": "DU7",
@@ -4473,7 +4812,8 @@
         "pt_DU7"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當後正中線上，第10胸椎棘突下凹陷中"
     },
     {
       "id": "DU8",
@@ -4486,7 +4826,8 @@
         "pt_DU8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當後正中線上，第9胸椎棘突下凹陷中"
     },
     {
       "id": "DU9",
@@ -4499,7 +4840,8 @@
         "pt_DU9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當後正中線上，第7胸椎棘突下凹陷中"
     },
     {
       "id": "DU10",
@@ -4512,7 +4854,8 @@
         "pt_DU10"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當後正中線上，第6胸椎棘突下凹陷中"
     },
     {
       "id": "DU11",
@@ -4525,7 +4868,8 @@
         "pt_DU11"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當後正中線上，第5胸椎棘突下凹陷中"
     },
     {
       "id": "DU12",
@@ -4538,7 +4882,8 @@
         "pt_DU12"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當後正中線上，第3胸椎棘突下凹陷中"
     },
     {
       "id": "DU13",
@@ -4551,7 +4896,8 @@
         "pt_DU13"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當後正中線上，第1胸椎棘突下凹陷中"
     },
     {
       "id": "DU14",
@@ -4564,7 +4910,8 @@
         "pt_DU14"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "後正中線上，第7頸椎棘突下凹陷中"
     },
     {
       "id": "DU15",
@@ -4579,7 +4926,8 @@
         "pt_DU15"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "項部，當後髮際正中直上0.5寸，第1頸椎下"
     },
     {
       "id": "DU16",
@@ -4592,7 +4940,8 @@
         "pt_DU16"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "項部，當後髮際正中直上1寸，枕外隆凸直下，兩側斜方肌之間凹陷處"
     },
     {
       "id": "DU17",
@@ -4605,7 +4954,8 @@
         "pt_DU17"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當後髮際正中直上2.5寸，風府上1.5寸，枕外隆凸的上緣凹陷處"
     },
     {
       "id": "DU18",
@@ -4618,7 +4968,8 @@
         "pt_DU18"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當後髮際正中直上4寸（腦戶上1.5寸）"
     },
     {
       "id": "DU19",
@@ -4631,7 +4982,8 @@
         "pt_DU19"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當後髮際正中直上5.5寸（腦戶上3寸）"
     },
     {
       "id": "DU20",
@@ -4644,7 +4996,8 @@
         "pt_DU20"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上5寸，或兩耳尖連線的中點處"
     },
     {
       "id": "DU21",
@@ -4657,7 +5010,8 @@
         "pt_DU21"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上3.5寸（百會前1.5寸）"
     },
     {
       "id": "DU22",
@@ -4672,7 +5026,8 @@
         "pt_DU22"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上2寸（百會前3寸）"
     },
     {
       "id": "DU23",
@@ -4685,7 +5040,8 @@
         "pt_DU23"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上1寸"
     },
     {
       "id": "DU24",
@@ -4698,7 +5054,8 @@
         "pt_DU24"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭部，當前髮際正中直上0.5寸"
     },
     {
       "id": "DU25",
@@ -4711,7 +5068,8 @@
         "pt_DU25"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當鼻尖的正中央"
     },
     {
       "id": "DU26",
@@ -4724,7 +5082,8 @@
         "pt_DU26"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當人中溝的上1/3與中1/3交點處"
     },
     {
       "id": "DU27",
@@ -4737,7 +5096,8 @@
         "pt_DU27"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當上唇的尖端，人中溝下端的皮膚與唇的移行部"
     },
     {
       "id": "DU29",
@@ -4750,7 +5110,8 @@
         "pt_DU29"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "前額部，當兩眉頭的中間"
     },
     {
       "id": "EX_HN1",
@@ -4763,7 +5124,8 @@
         "pt_EX_HN1"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "頭頂部，當百會前後左右各1寸處，共4穴"
     },
     {
       "id": "EX_HN2_L",
@@ -4776,7 +5138,8 @@
         "pt_EX_HN2_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "頭前部，當瞳孔直上，前髮際上1寸"
     },
     {
       "id": "EX_HN4_L",
@@ -4789,7 +5152,8 @@
         "pt_EX_HN4_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "額部，瞳孔直上，眉毛中"
     },
     {
       "id": "EX_HN5_L",
@@ -4802,7 +5166,8 @@
         "pt_EX_HN5_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "顳部，當眉梢與目外眥之間，向後約1橫指的凹陷處"
     },
     {
       "id": "EX_HN6_L",
@@ -4815,7 +5180,8 @@
         "pt_EX_HN6_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "耳郭的上方，當折耳向前，耳郭上方的尖端處"
     },
     {
       "id": "EX_HN7_L",
@@ -4828,7 +5194,8 @@
         "pt_EX_HN7_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當眶下緣外1/4與內3/4交界處"
     },
     {
       "id": "EX_HN8_L",
@@ -4841,7 +5208,8 @@
         "pt_EX_HN8_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，當鼻翼軟骨與鼻甲的交界處，近鼻唇溝上端處"
     },
     {
       "id": "EX_HNJiachengjiang_L",
@@ -4854,7 +5222,8 @@
         "pt_EX_HNJiachengjiang_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，承漿穴旁開1寸，下頜骨頦孔處"
     },
     {
       "id": "EX_HNQianzheng_L",
@@ -4867,7 +5236,8 @@
         "pt_EX_HNQianzheng_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "面部，耳垂前方0.5～1寸，與耳垂中點相平處"
     },
     {
       "id": "EX_HN14_L",
@@ -4880,7 +5250,8 @@
         "pt_EX_HN14_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "項部，當翳風後1寸"
     },
     {
       "id": "EX_HN15_L",
@@ -4893,7 +5264,8 @@
         "pt_EX_HN15_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "項部，當大椎穴直上2寸，後正中線旁開1寸"
     },
     {
       "id": "EX_HNAnmian_L",
@@ -4906,7 +5278,8 @@
         "pt_EX_HNAnmian_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "項部，當翳風穴與風池穴連線的中點"
     },
     {
       "id": "EX_CA1_L",
@@ -4919,7 +5292,8 @@
         "pt_EX_CA1_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "下腹部，當臍中下4寸，中極旁開3寸"
     },
     {
       "id": "EX_CASanjiaojiu",
@@ -4932,7 +5306,8 @@
         "pt_EX_CASanjiaojiu"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "以患者兩口角之長度作三折成等邊三角形，一角按臍心，兩角在臍下兩旁盡處點記"
     },
     {
       "id": "EX_B1_L",
@@ -4945,7 +5320,8 @@
         "pt_EX_B1_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第7頸椎棘突下，旁開0.5寸"
     },
     {
       "id": "EX_B2_L",
@@ -4958,7 +5334,8 @@
         "pt_EX_B2_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "背腰部，第1胸椎至第5腰椎棘突下兩側，後正中線旁開0.5寸，一側17穴"
     },
     {
       "id": "EX_B3_L",
@@ -4971,7 +5348,8 @@
         "pt_EX_B3_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "背部，當第8胸椎棘突下，旁開1.5寸"
     },
     {
       "id": "EX_B4_L",
@@ -4984,7 +5362,8 @@
         "pt_EX_B4_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第1腰椎棘突下，旁開3.5寸"
     },
     {
       "id": "EX_B5",
@@ -4997,7 +5376,8 @@
         "pt_EX_B5"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當後正中線上，第3腰椎棘突下"
     },
     {
       "id": "EX_B6_L",
@@ -5010,7 +5390,8 @@
         "pt_EX_B6_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第4腰椎棘突下，旁開3寸"
     },
     {
       "id": "EX_B7_L",
@@ -5023,7 +5404,8 @@
         "pt_EX_B7_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當第4腰椎棘突下，旁開約3.5寸凹陷中"
     },
     {
       "id": "EX_B8",
@@ -5036,7 +5418,8 @@
         "pt_EX_B8"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腰部，當後正中線上，第5腰椎棘突下"
     },
     {
       "id": "EX_B9",
@@ -5049,7 +5432,8 @@
         "pt_EX_B9"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "骶部，當尾骨端直上2寸，骶角之間凹陷中"
     },
     {
       "id": "EX_UEJianqian_L",
@@ -5062,7 +5446,8 @@
         "pt_EX_UEJianqian_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肩部，正坐垂臂，當腋前皺襞頂端與肩髃穴連線的中點"
     },
     {
       "id": "EX_UE1_L",
@@ -5075,7 +5460,8 @@
         "pt_EX_UE1_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "肘部，屈肘，當尺骨鷹嘴的尖端"
     },
     {
       "id": "EX_UE2_L",
@@ -5088,7 +5474,8 @@
         "pt_EX_UE2_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "前臂掌側，腕橫紋上4寸，橈側腕屈肌腱的兩側，一肢2穴"
     },
     {
       "id": "EX_UE3_L",
@@ -5101,7 +5488,8 @@
         "pt_EX_UE3_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "腕背側橫紋中，當指總伸肌腱橈側的凹陷處"
     },
     {
       "id": "EX_UE4_L",
@@ -5114,7 +5502,8 @@
         "pt_EX_UE4_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "中指背側近側指間關節的中點處"
     },
     {
       "id": "EX_UE5_L",
@@ -5127,7 +5516,8 @@
         "pt_EX_UE5_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "拇指背側指間關節的中點處"
     },
     {
       "id": "EX_UE6_L",
@@ -5140,7 +5530,8 @@
         "pt_EX_UE6_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小指背側近側指間關節的中點處"
     },
     {
       "id": "EX_UE7_L",
@@ -5153,7 +5544,8 @@
         "pt_EX_UE7_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "手背側，第2、3掌骨及第4、5掌骨之間，腕橫紋與掌指關節中點處，一側2穴"
     },
     {
       "id": "EX_UE8_L",
@@ -5166,7 +5558,8 @@
         "pt_EX_UE8_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "手背側，第2、3掌骨之間，掌指關節後0.5寸"
     },
     {
       "id": "EX_UE9_L",
@@ -5179,7 +5572,8 @@
         "pt_EX_UE9_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "手背側微握拳，第1～5指間，指蹼緣後方赤白肉際處，左右共8穴"
     },
     {
       "id": "EX_UE10_L",
@@ -5192,7 +5586,8 @@
         "pt_EX_UE10_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "第2～5指掌側，近端指關節的中央，一側4穴"
     },
     {
       "id": "EX_UE11_L",
@@ -5205,7 +5600,8 @@
         "pt_EX_UE11_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "手十指尖端，距指甲游離緣0.1寸，左右共10穴"
     },
     {
       "id": "EX_LE1_L",
@@ -5218,7 +5614,8 @@
         "pt_EX_LE1_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "大腿前面下部，當梁丘兩旁各1.5寸，一側2穴"
     },
     {
       "id": "EX_LE2_L",
@@ -5231,7 +5628,8 @@
         "pt_EX_LE2_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "膝上部，髕底的中點上方凹陷處"
     },
     {
       "id": "EX_LE3_L",
@@ -5244,7 +5642,8 @@
         "pt_EX_LE3_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈膝，大腿內側，髕底內側端上3寸，即血海穴上1寸"
     },
     {
       "id": "EX_LE4_L",
@@ -5257,7 +5656,8 @@
         "pt_EX_LE4_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "屈膝，在髕韌帶內側凹陷處"
     },
     {
       "id": "EX_LE6_L",
@@ -5270,7 +5670,8 @@
         "pt_EX_LE6_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿外側上部，當腓骨小頭前下方凹陷處（陽陵泉）直下2寸"
     },
     {
       "id": "EX_LE7_L",
@@ -5283,7 +5684,8 @@
         "pt_EX_LE7_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "小腿前側上部，當犢鼻下5寸，脛骨前緣旁開一橫指"
     },
     {
       "id": "EX_LE8_L",
@@ -5296,7 +5698,8 @@
         "pt_EX_LE8_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足內側面，內踝的凸起處"
     },
     {
       "id": "EX_LE9_L",
@@ -5309,7 +5712,8 @@
         "pt_EX_LE9_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足外側面，外踝的凸起處"
     },
     {
       "id": "EX_LE10_L",
@@ -5322,7 +5726,8 @@
         "pt_EX_LE10_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "足背側第1～5趾間，趾蹼緣後方赤白肉際處，左右共8穴"
     },
     {
       "id": "EX_LE11_L",
@@ -5335,7 +5740,8 @@
         "pt_EX_LE11_L"
       ],
       "quizEligible": true,
-      "exclusionReason": null
+      "exclusionReason": null,
+      "positiontext": "足底，第2趾的蹠側遠端趾間關節的中點"
     },
     {
       "id": "EX_LE12_L",
@@ -5348,7 +5754,8 @@
         "pt_EX_LE12_L"
       ],
       "quizEligible": false,
-      "exclusionReason": "multi-marker-group"
+      "exclusionReason": "multi-marker-group",
+      "positiontext": "足十趾尖端，距趾甲游離緣0.1寸，左右共10穴"
     },
     {
       "id": "EX_BJieji",
@@ -5361,7 +5768,8 @@
         "pt_EX_BJieji"
       ],
       "quizEligible": false,
-      "exclusionReason": "unresolved-name-and-meridian"
+      "exclusionReason": "unresolved-name-and-meridian",
+      "positiontext": null
     }
   ],
   "review": {
