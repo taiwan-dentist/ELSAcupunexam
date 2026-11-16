@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-Hant-TW">
+<html lang="zh-Hant-TW" data-type="software">
 <head>
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -9,7 +9,9 @@
  <meta name="apple-mobile-web-app-title" content="穴位自測">
  <!-- iOS overlays its status bar; safe-area padding keeps controls clear. -->
  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
- <meta name="description" content="以 3D 人體練習穴位名稱與位置，自選範圍，每題三次機會。">
+ <meta name="description" content="以 3D 人體搜尋、複習穴位名稱與位置，或自選範圍測驗，每題三次機會。">
+ <meta name="page-type" content="software">
+ <meta name="site-kind" content="software">
  <meta name="color-scheme" content="light dark">
  <title>穴位自測</title>
  <link rel="manifest" href="./manifest.webmanifest">
@@ -27,8 +29,14 @@
  <!-- Product app: the reviewed brief calls for the actual 3D model and a quiet quiz UI. The user's visual revision explicitly selects Google Fonts Noto Sans TC Embed. -->
  <a class="skip-link" href="#content">跳至操作區</a>
  <header class="app-header">
-  <a class="brand" href="./" aria-label="穴位自測首頁"><span class="brand-mark" aria-hidden="true"></span><span>穴位自測<small>許芳綺、黃柏誠醫師 版權所有</small></span></a>
-  <div class="header-actions"><button id="theme-button" class="icon-button" type="button" aria-label="切換深色模式" title="切換深色模式"><span aria-hidden="true">◐</span></button></div>
+  <a class="brand" href="#home" aria-label="穴位自測首頁"><span class="brand-mark" aria-hidden="true"></span><span><span id="brand-title">穴位自測</span><small>許芳綺、黃柏誠醫師 版權所有</small></span></a>
+  <div class="header-actions settings-shell" id="settings-shell" data-open="false">
+   <button id="settings-button" class="icon-button" type="button" aria-label="開啟設定" aria-expanded="false" aria-controls="settings-menu" title="設定"><span class="ui-icon settings-icon" aria-hidden="true"></span></button>
+   <div id="settings-menu" class="settings-menu" aria-label="設定選項" hidden>
+    <button id="theme-button" class="icon-button" type="button" aria-label="切換深色模式" title="切換深色模式" aria-pressed="false"><span class="ui-icon theme-icon" aria-hidden="true"></span></button>
+    <a id="page-button" class="icon-button" href="#overview" aria-label="前往穴位考前總覽" title="穴位考前總覽"><span class="ui-icon book-icon" aria-hidden="true"></span></a>
+   </div>
+  </div>
  </header>
  <div id="notice" class="notice" role="status" hidden></div>
  <main id="main" class="app-main wrap split" tabindex="-1">
@@ -41,9 +49,10 @@
   <section id="content" class="content-panel" aria-live="off" tabindex="-1"><h1>正在載入題庫…</h1></section>
  </main>
  <footer class="app-footer"><button id="diagnostics-button" class="footer-info" type="button">顯示資訊</button></footer>
+ <div class="page-mist" aria-hidden="true"></div>
  <div id="announcer" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
  <dialog id="confirm-dialog" aria-labelledby="confirm-title"><form method="dialog"><h2 id="confirm-title">離開這次測驗？</h2><p id="confirm-description">目前進度將清除。</p><div class="button-row"><button value="cancel" autofocus>繼續作答</button><button value="confirm" class="primary">離開測驗</button></div></form></dialog>
- <dialog id="diagnostics-dialog" aria-labelledby="diagnostics-title"><h2 id="diagnostics-title">顯示資訊</h2><dl id="diagnostics-list"></dl><p class="muted">高效能是瀏覽器偏好設定，不能保證使用獨立顯示卡。</p><div class="button-row"><button id="renderer-rebuild" type="button">重建 3D 顯示</button><button id="diagnostics-close" type="button" class="primary">關閉</button></div></dialog>
+ <dialog id="diagnostics-dialog" aria-labelledby="diagnostics-title"><h2 id="diagnostics-title">顯示資訊</h2><dl id="diagnostics-list"></dl><p class="muted">3D流暢度視裝置顯示卡效能而定</p><div class="button-row"><button id="renderer-rebuild" type="button">重建 3D 顯示</button><button id="diagnostics-close" type="button" class="primary">關閉</button></div></dialog>
  <noscript><p class="no-script">穴位自測需要 JavaScript 才能載入 3D 模型與題目，請先在瀏覽器啟用。</p></noscript>
 </body>
 </html>

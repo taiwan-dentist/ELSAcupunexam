@@ -20,11 +20,11 @@ export class PointPicker{
   for(const target of targets){const direction=target.clone().sub(this.camera.position),distance=direction.length();this.ray.set(this.camera.position,direction.normalize());this.ray.near=0;this.ray.far=distance+.00002;const shell=this.ray.intersectObject(this.body,false)[0];if(!shell||shell.distance>=distance-.00001)return true;}
   this.ray.far=Infinity;return false;
  }
- pick(clientX,clientY,rect){
+ pick(clientX,clientY,rect,allowedIds=null){
   this.updateHitRegions(rect.height);const xy=new THREE.Vector2((clientX-rect.left)/rect.width*2-1,-(clientY-rect.top)/rect.height*2+1);this.ray.setFromCamera(xy,this.camera);this.ray.far=Infinity;
   const hits=this.ray.intersectObject(this.hit,false),ids=new Set(hits.map(hit=>this.ids[hit.instanceId])),candidates=[];
   // Screen-space distance makes the result stable where adaptive regions overlap.
-  for(const id of ids){const projected=this.project(id,rect);if(!projected||!this.visible(id))continue;const distance=Math.hypot(projected.x-(clientX-rect.left),projected.y-(clientY-rect.top));if(distance<=(matchMedia('(pointer:coarse)').matches?24:19))candidates.push({id,distance,projected});}
+  for(const id of ids){if(allowedIds&&!allowedIds.has(id))continue;const projected=this.project(id,rect);if(!projected||!this.visible(id))continue;const distance=Math.hypot(projected.x-(clientX-rect.left),projected.y-(clientY-rect.top));if(distance<=(matchMedia('(pointer:coarse)').matches?24:19))candidates.push({id,distance,projected});}
   candidates.sort((a,b)=>a.distance-b.distance);if(!candidates.length)return{kind:'empty'};
   if(candidates.length>1){const a=candidates[0],b=candidates[1],gap=Math.hypot(a.projected.x-b.projected.x,a.projected.y-b.projected.y);if(gap<11&&b.distance-a.distance<7)return{kind:'crowded',ids:[a.id,b.id]};}
   return{kind:'point',id:candidates[0].id};

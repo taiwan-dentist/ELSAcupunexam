@@ -1,18 +1,24 @@
 // tools/prepare-pwa.mjs updates this version and the complete local asset list.
-const CACHE_VERSION='082d4565d81c5907';
+const CACHE_VERSION='427bbbc707ee371a';
 const ASSETS=[
  "css/app.css",
  "data/geometry.json",
  "data/points.json",
  "icons/apple-touch-icon.png",
  "icons/arrow-up-right-square-outline.svg",
+ "icons/book.svg",
+ "icons/dark-light.svg",
  "icons/favicon.ico",
  "icons/favicon.svg",
+ "icons/home.svg",
  "icons/icon-192.png",
  "icons/icon-512.png",
  "icons/icon-maskable-512.png",
+ "icons/settings.svg",
  "index.html",
  "js/app.js",
+ "js/overview-search.js",
+ "js/page-transition.js",
  "js/picking.js",
  "js/pwa.js",
  "js/quiz.js",
